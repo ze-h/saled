@@ -1,0 +1,5034 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 7193.639999999999
+tiers? <exists>
+size = 1
+item []: 
+    item [1]:
+        class = "IntervalTier"
+        name = "text-label"
+        xmin = 0
+        xmax = 7193.639999999999
+        intervals: size = 1255
+        intervals [1]:
+            xmin = 0.0
+            xmax = 5.0
+            text = "Tower, Delta 2181 approaching I.G."
+        intervals [2]:
+            xmin = 5.0
+            xmax = 8.0
+            text = "Delta 2181, Tower 10105, runway 26R clear to land."
+        intervals [3]:
+            xmin = 8.0
+            xmax = 13.0
+            text = "26R clear to land, Delta 2181."
+        intervals [4]:
+            xmin = 13.0
+            xmax = 32.0
+            text = "Tower, 155, turn left on BRAVO and hold short of runway 26L to BRAVO 4."
+        intervals [5]:
+            xmin = 32.0
+            xmax = 38.0
+            text = "Hold short of 26L to BRAVO 4 for interflight 155."
+        intervals [6]:
+            xmin = 38.0
+            xmax = 40.0
+            text = "790, RNAF SNUF, runway 26L clear for takeoff."
+        intervals [7]:
+            xmin = 40.0
+            xmax = 43.0
+            text = "RNAF SNUF, clear for takeoff, 26L, United 790."
+        intervals [8]:
+            xmin = 43.0
+            xmax = 68.0
+            text = "[Silence]"
+        intervals [9]:
+            xmin = 68.0
+            xmax = 96.0
+            text = "Center, 155 at BRAVO 4, cross runway 26L, join ECHO, contact ground point 9."
+        intervals [10]:
+            xmin = 96.0
+            xmax = 117.0
+            text = "26L at BRAVO 4, join ECHO, ground point 8 for interflight 155."
+        intervals [11]:
+            xmin = 117.0
+            xmax = 128.0
+            text = "Delta 2266, turn left on BRAVO at BRAVO 4, cross runway 26L, join ECHO, contact ground point 9."
+        intervals [12]:
+            xmin = 128.0
+            xmax = 134.0
+            text = "United 790, contact departure, 3347, good day."
+        intervals [13]:
+            xmin = 134.0
+            xmax = 136.0
+            text = "Delta 2387, inside I.G."
+        intervals [14]:
+            xmin = 136.0
+            xmax = 140.0
+            text = "Delta 2387, line up tower, runway 26R, clear to land 10205."
+        intervals [15]:
+            xmin = 140.0
+            xmax = 144.0
+            text = "Clear to land, 26R, Delta 2387."
+        intervals [16]:
+            xmin = 144.0
+            xmax = 147.0
+            text = "[Silence]"
+        intervals [17]:
+            xmin = 147.0
+            xmax = 149.0
+            text = "Clear to land, 26R, Delta 2387."
+        intervals [18]:
+            xmin = 149.0
+            xmax = 177.0
+            text = "[Silence]"
+        intervals [19]:
+            xmin = 177.0
+            xmax = 198.0
+            text = "Delta 2181, turn left on BRAVO, hold short of runway 26L to DELTA."
+        intervals [20]:
+            xmin = 198.0
+            xmax = 203.0
+            text = "BRAVO 27 West, short of DELTA, DELTA 2181."
+        intervals [21]:
+            xmin = 203.0
+            xmax = 206.0
+            text = "DELTA 2181, hold short of runway 26L at DELTA."
+        intervals [22]:
+            xmin = 206.0
+            xmax = 208.0
+            text = "26L, sorry to add DELTA."
+        intervals [23]:
+            xmin = 208.0
+            xmax = 211.0
+            text = "I'm sorry sir, I hate to be a stickler, I knew the hold short with the runway, please."
+        intervals [24]:
+            xmin = 211.0
+            xmax = 215.0
+            text = "26L at DELTA, we'll hold short for DELTA 2181."
+        intervals [25]:
+            xmin = 215.0
+            xmax = 219.0
+            text = "Thank you very much."
+        intervals [26]:
+            xmin = 219.0
+            xmax = 221.0
+            text = "BRAVO 4467, just passed I.G."
+        intervals [27]:
+            xmin = 221.0
+            xmax = 226.0
+            text = "BRAVO 4467, line up tower, runway 26R, clear to land 10205."
+        intervals [28]:
+            xmin = 226.0
+            xmax = 228.0
+            text = "Clear to land, 26R, Delta 2387."
+        intervals [29]:
+            xmin = 228.0
+            xmax = 233.0
+            text = "[Silence]"
+        intervals [30]:
+            xmin = 233.0
+            xmax = 259.0
+            text = "Clear to land, 26R, DELTA 2181."
+        intervals [31]:
+            xmin = 259.0
+            xmax = 267.0
+            text = "DELTA 2387 to BRAVO 2, cross runway 26L, then straight into ramp 2, skip ramp."
+        intervals [32]:
+            xmin = 267.0
+            xmax = 274.0
+            text = "BRAVO 2 cross 26L and right to ramp DELTA 2387."
+        intervals [33]:
+            xmin = 274.0
+            xmax = 278.0
+            text = "DELTA 2656, line up runway 26L, line up runway traffic downfield."
+        intervals [34]:
+            xmin = 278.0
+            xmax = 281.0
+            text = "Copy traffic, line up runway 26L, DELTA 2656."
+        intervals [35]:
+            xmin = 281.0
+            xmax = 288.0
+            text = "DELTA 2181, traffic hold to DELTA, cross runway 26L, straight into 6N, call ramp 3137, great day."
+        intervals [36]:
+            xmin = 288.0
+            xmax = 293.0
+            text = "Cross runway 26L at DELTA, straight into ramp DELTA 2181, thank you."
+        intervals [37]:
+            xmin = 293.0
+            xmax = 295.0
+            text = "Tower, DELTA 2375, over I.G."
+        intervals [38]:
+            xmin = 295.0
+            xmax = 301.0
+            text = "DELTA 2375, line up tower, traffic short final, runway 26R, clear to land 10205."
+        intervals [39]:
+            xmin = 301.0
+            xmax = 304.0
+            text = "Clear to land, 26R, DELTA 2387."
+        intervals [40]:
+            xmin = 304.0
+            xmax = 318.0
+            text = "[Silence]"
+        intervals [41]:
+            xmin = 318.0
+            xmax = 329.0
+            text = "DELTA 2656, RNAV and PAS, runway 26L, cleared for takeoff."
+        intervals [42]:
+            xmin = 329.0
+            xmax = 333.0
+            text = "RNAV and PAS, cleared for takeoff, runway 26L, cleared for 26R."
+        intervals [43]:
+            xmin = 333.0
+            xmax = 348.0
+            text = "[Silence]"
+        intervals [44]:
+            xmin = 348.0
+            xmax = 359.0
+            text = "Breaker 4467, join BRAVO, Victor, ground point niner on Victor."
+        intervals [45]:
+            xmin = 359.0
+            xmax = 364.0
+            text = "BRAVO, Victor, ground point niner on Victor, Breaker 4467."
+        intervals [46]:
+            xmin = 364.0
+            xmax = 379.0
+            text = "[Silence]"
+        intervals [47]:
+            xmin = 379.0
+            xmax = 383.0
+            text = "Tower, DELTA 5413, visual, 26R."
+        intervals [48]:
+            xmin = 383.0
+            xmax = 389.0
+            text = "DELTA 5413, line up tower, traffic half mile final, 737, runway 26R, cleared to land 10205."
+        intervals [49]:
+            xmin = 389.0
+            xmax = 392.0
+            text = "Cleared to land 26R, DELTA 5413."
+        intervals [50]:
+            xmin = 392.0
+            xmax = 408.0
+            text = "[Silence]"
+        intervals [51]:
+            xmin = 408.0
+            xmax = 418.0
+            text = "DELTA 2626, contact Christian 2656, contact departure g'day."
+        intervals [52]:
+            xmin = 418.0
+            xmax = 420.0
+            text = "2656, go on departure g'day."
+        intervals [53]:
+            xmin = 420.0
+            xmax = 439.0
+            text = "DELTA 2375, taxi with the vector loop."
+        intervals [54]:
+            xmin = 439.0
+            xmax = 441.0
+            text = "Vector loop 2375."
+        intervals [55]:
+            xmin = 441.0
+            xmax = 450.0
+            text = "[Silence]"
+        intervals [56]:
+            xmin = 450.0
+            xmax = 459.0
+            text = "Tower, scarab 3917, visual, 26R."
+        intervals [57]:
+            xmin = 459.0
+            xmax = 465.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, runway 26R, cleared to land 10205."
+        intervals [58]:
+            xmin = 465.0
+            xmax = 468.0
+            text = "26R, cleared to land, scarab 3917."
+        intervals [59]:
+            xmin = 468.0
+            xmax = 480.0
+            text = "[Silence]"
+        intervals [60]:
+            xmin = 480.0
+            xmax = 482.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [61]:
+            xmin = 482.0
+            xmax = 484.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [62]:
+            xmin = 484.0
+            xmax = 486.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [63]:
+            xmin = 486.0
+            xmax = 488.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [64]:
+            xmin = 488.0
+            xmax = 490.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [65]:
+            xmin = 490.0
+            xmax = 492.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [66]:
+            xmin = 492.0
+            xmax = 494.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [67]:
+            xmin = 494.0
+            xmax = 496.0
+            text = "Tower, scarab 3917, line up tower."
+        intervals [68]:
+            xmin = 496.0
+            xmax = 524.0
+            text = "[Silence]"
+        intervals [69]:
+            xmin = 524.0
+            xmax = 526.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [70]:
+            xmin = 526.0
+            xmax = 528.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [71]:
+            xmin = 528.0
+            xmax = 530.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [72]:
+            xmin = 530.0
+            xmax = 532.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [73]:
+            xmin = 532.0
+            xmax = 534.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [74]:
+            xmin = 534.0
+            xmax = 536.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [75]:
+            xmin = 536.0
+            xmax = 538.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, RJ900, cleared to land 10205."
+        intervals [76]:
+            xmin = 538.0
+            xmax = 540.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [77]:
+            xmin = 540.0
+            xmax = 542.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [78]:
+            xmin = 542.0
+            xmax = 544.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [79]:
+            xmin = 544.0
+            xmax = 546.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [80]:
+            xmin = 546.0
+            xmax = 568.0
+            text = "[Silence]"
+        intervals [81]:
+            xmin = 568.0
+            xmax = 570.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [82]:
+            xmin = 570.0
+            xmax = 572.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [83]:
+            xmin = 572.0
+            xmax = 574.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [84]:
+            xmin = 574.0
+            xmax = 576.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [85]:
+            xmin = 576.0
+            xmax = 578.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [86]:
+            xmin = 578.0
+            xmax = 580.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [87]:
+            xmin = 580.0
+            xmax = 582.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [88]:
+            xmin = 582.0
+            xmax = 584.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [89]:
+            xmin = 584.0
+            xmax = 586.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [90]:
+            xmin = 586.0
+            xmax = 588.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [91]:
+            xmin = 588.0
+            xmax = 590.0
+            text = "Tower, scarab 3917, line up tower, traffic mile and a half final, cleared to land 10205."
+        intervals [92]:
+            xmin = 590.0
+            xmax = 592.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [93]:
+            xmin = 592.0
+            xmax = 594.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [94]:
+            xmin = 594.0
+            xmax = 596.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [95]:
+            xmin = 596.0
+            xmax = 598.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [96]:
+            xmin = 598.0
+            xmax = 600.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [97]:
+            xmin = 600.0
+            xmax = 602.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [98]:
+            xmin = 602.0
+            xmax = 604.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [99]:
+            xmin = 604.0
+            xmax = 606.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [100]:
+            xmin = 606.0
+            xmax = 608.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [101]:
+            xmin = 608.0
+            xmax = 610.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [102]:
+            xmin = 610.0
+            xmax = 612.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [103]:
+            xmin = 612.0
+            xmax = 614.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [104]:
+            xmin = 614.0
+            xmax = 616.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [105]:
+            xmin = 616.0
+            xmax = 618.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [106]:
+            xmin = 618.0
+            xmax = 620.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [107]:
+            xmin = 620.0
+            xmax = 622.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [108]:
+            xmin = 622.0
+            xmax = 624.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [109]:
+            xmin = 624.0
+            xmax = 626.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [110]:
+            xmin = 626.0
+            xmax = 628.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [111]:
+            xmin = 628.0
+            xmax = 630.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [112]:
+            xmin = 630.0
+            xmax = 632.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [113]:
+            xmin = 632.0
+            xmax = 634.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [114]:
+            xmin = 634.0
+            xmax = 636.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [115]:
+            xmin = 636.0
+            xmax = 638.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [116]:
+            xmin = 638.0
+            xmax = 640.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [117]:
+            xmin = 640.0
+            xmax = 642.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [118]:
+            xmin = 642.0
+            xmax = 644.0
+            text = "Tower, scarab 3917, taxi via Victoria Loop."
+        intervals [119]:
+            xmin = 644.0
+            xmax = 651.0
+            text = "It says, update Echo Romeo and Vigilin and R11."
+        intervals [120]:
+            xmin = 651.0
+            xmax = 654.0
+            text = "26L is not occupied, but it is available."
+        intervals [121]:
+            xmin = 654.0
+            xmax = 658.0
+            text = "26R is occupied with Frontier 1524."
+        intervals [122]:
+            xmin = 658.0
+            xmax = 661.0
+            text = "Cleared back to 2204."
+        intervals [123]:
+            xmin = 661.0
+            xmax = 663.0
+            text = "And no Aprex up here."
+        intervals [124]:
+            xmin = 663.0
+            xmax = 668.0
+            text = "Your west ones are down south."
+        intervals [125]:
+            xmin = 668.0
+            xmax = 671.0
+            text = "And crossing 26L with Sky West."
+        intervals [126]:
+            xmin = 671.0
+            xmax = 673.0
+            text = "Looping, staging a little bit."
+        intervals [127]:
+            xmin = 673.0
+            xmax = 674.0
+            text = "That's it."
+        intervals [128]:
+            xmin = 674.0
+            xmax = 675.0
+            text = "I have AC."
+        intervals [129]:
+            xmin = 675.0
+            xmax = 679.0
+            text = "[Silence]"
+        intervals [130]:
+            xmin = 679.0
+            xmax = 683.0
+            text = "Tower, Delta 1263, AJM, about 26R visual."
+        intervals [131]:
+            xmin = 683.0
+            xmax = 687.0
+            text = "Delta 1263, Atlanta Tower, wind 0204, 126R, cleared to land."
+        intervals [132]:
+            xmin = 687.0
+            xmax = 690.0
+            text = "Cleared to land, 26R, Delta 1263."
+        intervals [133]:
+            xmin = 690.0
+            xmax = 694.0
+            text = "Frontier Flight 1524, at Bravo 2, cross runway 26L,"
+        intervals [134]:
+            xmin = 694.0
+            xmax = 696.0
+            text = "and Echo, contact ground 0.9."
+        intervals [135]:
+            xmin = 696.0
+            xmax = 702.0
+            text = "Bravo 2, cross 26L, Echo 9R, ground 0.9, Frontier Flight 1524."
+        intervals [136]:
+            xmin = 702.0
+            xmax = 726.0
+            text = "[Silence]"
+        intervals [137]:
+            xmin = 726.0
+            xmax = 728.0
+            text = "Thank you."
+        intervals [138]:
+            xmin = 728.0
+            xmax = 757.0
+            text = "[Silence]"
+        intervals [139]:
+            xmin = 757.0
+            xmax = 761.0
+            text = "Delta 2204, for ramp 1, taxi via the Victoria Loop."
+        intervals [140]:
+            xmin = 761.0
+            xmax = 765.0
+            text = "Victoria Loop, Delta 2204."
+        intervals [141]:
+            xmin = 765.0
+            xmax = 769.0
+            text = "Tower, Delta 2499, AJ."
+        intervals [142]:
+            xmin = 769.0
+            xmax = 774.0
+            text = "Delta 2499, Atlanta Tower, wind 0104, 126R, cleared to land."
+        intervals [143]:
+            xmin = 774.0
+            xmax = 778.0
+            text = "Cleared to land, 26R, Delta 2499."
+        intervals [144]:
+            xmin = 778.0
+            xmax = 786.0
+            text = "[Silence]"
+        intervals [145]:
+            xmin = 786.0
+            xmax = 791.0
+            text = "Tower, Delta 2470, Atlanta Tower, wind 26L, on point."
+        intervals [146]:
+            xmin = 791.0
+            xmax = 793.0
+            text = "26L, line up and wait."
+        intervals [147]:
+            xmin = 793.0
+            xmax = 794.0
+            text = "Okay."
+        intervals [148]:
+            xmin = 794.0
+            xmax = 795.0
+            text = "Okay."
+        intervals [149]:
+            xmin = 795.0
+            xmax = 796.0
+            text = "Okay."
+        intervals [150]:
+            xmin = 796.0
+            xmax = 797.0
+            text = "Okay."
+        intervals [151]:
+            xmin = 797.0
+            xmax = 798.0
+            text = "Okay."
+        intervals [152]:
+            xmin = 798.0
+            xmax = 799.0
+            text = "Okay."
+        intervals [153]:
+            xmin = 799.0
+            xmax = 800.0
+            text = "Okay."
+        intervals [154]:
+            xmin = 800.0
+            xmax = 801.0
+            text = "Okay."
+        intervals [155]:
+            xmin = 801.0
+            xmax = 804.0
+            text = "Delta 2470, Atlanta Tower, wind 26L, on point."
+        intervals [156]:
+            xmin = 804.0
+            xmax = 807.0
+            text = "26L, line up and wait, Delta 2470."
+        intervals [157]:
+            xmin = 807.0
+            xmax = 832.0
+            text = "[Silence]"
+        intervals [158]:
+            xmin = 832.0
+            xmax = 839.0
+            text = "Atlanta Tower, Delta 2691, wait to you on a visual, 26R."
+        intervals [159]:
+            xmin = 839.0
+            xmax = 844.0
+            text = "Delta 2691, Atlanta Tower, wind 0205, wind 26R, cleared to land."
+        intervals [160]:
+            xmin = 844.0
+            xmax = 848.0
+            text = "Cleared to land, 26R, Delta 2691."
+        intervals [161]:
+            xmin = 848.0
+            xmax = 852.0
+            text = "Delta 1263, hold short, 126L, at Bravo 2."
+        intervals [162]:
+            xmin = 852.0
+            xmax = 855.0
+            text = "[Silence]"
+        intervals [163]:
+            xmin = 855.0
+            xmax = 859.0
+            text = "Delta 1263, hold short, 126L, at Bravo 2."
+        intervals [164]:
+            xmin = 859.0
+            xmax = 860.0
+            text = "[Silence]"
+        intervals [165]:
+            xmin = 860.0
+            xmax = 863.0
+            text = "Hold short, 126L, at Bravo 2, Delta 1263."
+        intervals [166]:
+            xmin = 863.0
+            xmax = 867.0
+            text = "Delta 2470, RNAV 26L, we're on 26L, cleared for takeoff."
+        intervals [167]:
+            xmin = 867.0
+            xmax = 871.0
+            text = "RNAV 26L, cleared for takeoff, 26L, Delta 2470."
+        intervals [168]:
+            xmin = 871.0
+            xmax = 875.0
+            text = "Delta 849, Atlanta Tower, wind 26L, on point, traffic will be downfield."
+        intervals [169]:
+            xmin = 875.0
+            xmax = 878.0
+            text = "On the way, 26L, Delta 849."
+        intervals [170]:
+            xmin = 878.0
+            xmax = 889.0
+            text = "[Silence]"
+        intervals [171]:
+            xmin = 889.0
+            xmax = 892.0
+            text = "Delta 48, Atlanta Tower, wind 305, wind 26R, cleared to land."
+        intervals [172]:
+            xmin = 892.0
+            xmax = 908.0
+            text = "[Silence]"
+        intervals [173]:
+            xmin = 908.0
+            xmax = 911.2
+            text = "Delta 401, please approach 26R."
+        intervals [174]:
+            xmin = 911.2
+            xmax = 916.0
+            text = "Delta 401, Atlanta Tower wind 0305, wind 26R, cleared to land."
+        intervals [175]:
+            xmin = 916.0
+            xmax = 918.0
+            text = "Cleared to land, 26R, Delta 401."
+        intervals [176]:
+            xmin = 918.0
+            xmax = 923.8
+            text = "Delta 1263, traffic following position at bravo 2, cross runway 26 left, line echo, contact round point niner."
+        intervals [177]:
+            xmin = 923.8
+            xmax = 930.4
+            text = "Delta 1263, cross runway 26 left at bravo 2, join echo point niner."
+        intervals [178]:
+            xmin = 930.4
+            xmax = 934.1
+            text = "Delta 2499, taxi to Victor Loop."
+        intervals [179]:
+            xmin = 934.1
+            xmax = 938.1
+            text = "Delta to 2499, Victor Loop."
+        intervals [180]:
+            xmin = 938.1
+            xmax = 948.0
+            text = "[Silence]"
+        intervals [181]:
+            xmin = 948.0
+            xmax = 957.0
+            text = "Delta 2470, contact departure."
+        intervals [182]:
+            xmin = 957.0
+            xmax = 959.0
+            text = "Contact Delta 2470, good day."
+        intervals [183]:
+            xmin = 959.0
+            xmax = 961.0
+            text = "Good day."
+        intervals [184]:
+            xmin = 961.0
+            xmax = 965.0
+            text = "Access for everyone is limited."
+        intervals [185]:
+            xmin = 965.0
+            xmax = 976.26
+            text = "[Silence]"
+        intervals [186]:
+            xmin = 976.26
+            xmax = 980.06
+            text = "Delta 2499, runway 29 richaps another point."
+        intervals [187]:
+            xmin = 980.06
+            xmax = 983.26
+            text = "Commence roll cam to emergency runoff."
+        intervals [188]:
+            xmin = 983.26
+            xmax = 986.5
+            text = "American 1230, Atlanta runway 26 left, on a point."
+        intervals [189]:
+            xmin = 986.5
+            xmax = 989.48
+            text = "26 left, line up and wait, American 1230."
+        intervals [190]:
+            xmin = 989.48
+            xmax = 991.88
+            text = "Delta 2691, taxi Victor Luke."
+        intervals [191]:
+            xmin = 991.88
+            xmax = 992.72
+            text = "Victor Luke."
+        intervals [192]:
+            xmin = 992.72
+            xmax = 993.72
+            text = "[Silence]"
+        intervals [193]:
+            xmin = 993.72
+            xmax = 996.76
+            text = "Delta 2691, Visual 26 right."
+        intervals [194]:
+            xmin = 996.76
+            xmax = 999.6
+            text = "Delta 264, Atlanta Tower, wind 0305,"
+        intervals [195]:
+            xmin = 999.6
+            xmax = 1001.6
+            text = "runway 26, track clear to land."
+        intervals [196]:
+            xmin = 1001.6
+            xmax = 1003.56
+            text = "26, track clear to land, Delta 264."
+        intervals [197]:
+            xmin = 1003.56
+            xmax = 1019.48
+            text = "[Silence]"
+        intervals [198]:
+            xmin = 1019.48
+            xmax = 1035.92
+            text = "American 1230R, NAFTA, 1-2-6-L, cleared for takeoff."
+        intervals [199]:
+            xmin = 1035.92
+            xmax = 1039.84
+            text = "NAFTA, 2-6-L, cleared for takeoff, American 1230."
+        intervals [200]:
+            xmin = 1039.84
+            xmax = 1043.52
+            text = "Delta 2445, Atlanta Tower, 1-2-6-L, on a point."
+        intervals [201]:
+            xmin = 1043.52
+            xmax = 1045.52
+            text = "On a point, 2-6-L, Delta 2445."
+        intervals [202]:
+            xmin = 1045.52
+            xmax = 1049.48
+            text = "[Silence]"
+        intervals [203]:
+            xmin = 1049.48
+            xmax = 1064.48
+            text = "Delta 2445, contact departure."
+        intervals [204]:
+            xmin = 1064.48
+            xmax = 1066.48
+            text = "Departure, Delta 2445."
+        intervals [205]:
+            xmin = 1066.48
+            xmax = 1068.48
+            text = "Delta 401, taxi Victor Luke."
+        intervals [206]:
+            xmin = 1068.48
+            xmax = 1072.48
+            text = "[Silence]"
+        intervals [207]:
+            xmin = 1072.48
+            xmax = 1074.48
+            text = "Delta 401, Victor Luke."
+        intervals [208]:
+            xmin = 1074.48
+            xmax = 1079.48
+            text = "[Silence]"
+        intervals [209]:
+            xmin = 1079.48
+            xmax = 1095.48
+            text = "Tower, Delta 1628, still raging."
+        intervals [210]:
+            xmin = 1095.48
+            xmax = 1098.48
+            text = "Delta 1628, Atlanta Tower, wind 0405,"
+        intervals [211]:
+            xmin = 1098.48
+            xmax = 1100.48
+            text = "runway 26, track clear to land."
+        intervals [212]:
+            xmin = 1100.48
+            xmax = 1102.48
+            text = "26, track clear to land, Delta 1628."
+        intervals [213]:
+            xmin = 1102.48
+            xmax = 1109.48
+            text = "[Silence]"
+        intervals [214]:
+            xmin = 1109.48
+            xmax = 1121.48
+            text = "Delta 2445, R-NAFTA, 1-2-6-L, cleared for takeoff."
+        intervals [215]:
+            xmin = 1121.48
+            xmax = 1123.48
+            text = "R-NAFTA, cleared for takeoff, 26L,"
+        intervals [216]:
+            xmin = 1123.48
+            xmax = 1125.48
+            text = "Delta 2445."
+        intervals [217]:
+            xmin = 1125.48
+            xmax = 1140.48
+            text = "[Silence]"
+        intervals [218]:
+            xmin = 1140.48
+            xmax = 1143.48
+            text = "American 1230, contact departure."
+        intervals [219]:
+            xmin = 1143.48
+            xmax = 1145.48
+            text = "American 1230 is off."
+        intervals [220]:
+            xmin = 1145.48
+            xmax = 1148.48
+            text = "[Silence]"
+        intervals [221]:
+            xmin = 1148.48
+            xmax = 1152.48
+            text = "Delta 2264, taxi via the Victor Luke."
+        intervals [222]:
+            xmin = 1152.48
+            xmax = 1154.48
+            text = "Victor Luke, Delta 2264."
+        intervals [223]:
+            xmin = 1154.48
+            xmax = 1169.48
+            text = "[Silence]"
+        intervals [224]:
+            xmin = 1169.48
+            xmax = 1188.48
+            text = "Tower, Delta 2903, AJ for 26R."
+        intervals [225]:
+            xmin = 1188.48
+            xmax = 1190.48
+            text = "Delta 2903, Tower wind 0504,"
+        intervals [226]:
+            xmin = 1190.48
+            xmax = 1192.48
+            text = "runway 26R, cleared to land."
+        intervals [227]:
+            xmin = 1192.48
+            xmax = 1195.48
+            text = "26R, cleared to land, Delta 2903."
+        intervals [228]:
+            xmin = 1195.48
+            xmax = 1199.48
+            text = "Delta 2107, Atlanta Tower, wind 26L, on a flight."
+        intervals [229]:
+            xmin = 1199.48
+            xmax = 1202.48
+            text = "26L, on a flight, Delta 2107."
+        intervals [230]:
+            xmin = 1202.48
+            xmax = 1208.48
+            text = "[Silence]"
+        intervals [231]:
+            xmin = 1208.48
+            xmax = 1211.48
+            text = "Delta 2445, contact departure."
+        intervals [232]:
+            xmin = 1211.48
+            xmax = 1213.48
+            text = "Delta 2445."
+        intervals [233]:
+            xmin = 1213.48
+            xmax = 1225.48
+            text = "[Silence]"
+        intervals [234]:
+            xmin = 1225.48
+            xmax = 1238.48
+            text = "Delta 2107, R-NAFTA, in-pass for 126L, cleared for takeoff."
+        intervals [235]:
+            xmin = 1238.48
+            xmax = 1240.48
+            text = "R-NAFTA, in-pass, 26L, cleared for takeoff,"
+        intervals [236]:
+            xmin = 1240.48
+            xmax = 1242.48
+            text = "Delta 2107."
+        intervals [237]:
+            xmin = 1242.48
+            xmax = 1244.48
+            text = "[Silence]"
+        intervals [238]:
+            xmin = 1244.48
+            xmax = 1248.48
+            text = "Delta 1628, hold short, 126L, at Bravo 2."
+        intervals [239]:
+            xmin = 1248.48
+            xmax = 1251.48
+            text = "Hold short, 126L, at Bravo 2, Delta 1628."
+        intervals [240]:
+            xmin = 1251.48
+            xmax = 1256.48
+            text = "[Silence]"
+        intervals [241]:
+            xmin = 1256.48
+            xmax = 1262.48
+            text = "Delta 898 and Delta 733, change my frequency, 125.32."
+        intervals [242]:
+            xmin = 1262.48
+            xmax = 1264.48
+            text = "2532, 2532."
+        intervals [243]:
+            xmin = 1264.48
+            xmax = 1268.48
+            text = "Delta 1628, monitor tower, 125.32."
+        intervals [244]:
+            xmin = 1268.48
+            xmax = 1271.48
+            text = "2532, Delta 1628."
+        intervals [245]:
+            xmin = 1271.48
+            xmax = 1285.48
+            text = "[Silence]"
+        intervals [246]:
+            xmin = 1285.48
+            xmax = 1293.48
+            text = "Delta 898, Atlanta Tower, wind 26L, on a flight,"
+        intervals [247]:
+            xmin = 1293.48
+            xmax = 1295.48
+            text = "traffic will be downfield."
+        intervals [248]:
+            xmin = 1295.48
+            xmax = 1297.48
+            text = "26L, on a flight, Delta 898."
+        intervals [249]:
+            xmin = 1297.48
+            xmax = 1300.48
+            text = "[Silence]"
+        intervals [250]:
+            xmin = 1300.48
+            xmax = 1302.48
+            text = "Delta 1628, traffic will be holding position,"
+        intervals [251]:
+            xmin = 1302.48
+            xmax = 1304.48
+            text = "at Bravo 2, cross runway 26L,"
+        intervals [252]:
+            xmin = 1304.48
+            xmax = 1306.48
+            text = "on echo, contact ground.9R."
+        intervals [253]:
+            xmin = 1306.48
+            xmax = 1308.48
+            text = "At Bravo 2, cross 26L, join echo, contact ground,"
+        intervals [254]:
+            xmin = 1308.48
+            xmax = 1310.48
+            text = "Delta 1628."
+        intervals [255]:
+            xmin = 1310.48
+            xmax = 1312.48
+            text = "Delta 1628, Atlanta Tower, wind 0404,"
+        intervals [256]:
+            xmin = 1312.48
+            xmax = 1314.48
+            text = "runway 26R, cleared to land."
+        intervals [257]:
+            xmin = 1314.48
+            xmax = 1324.48
+            text = "[Silence]"
+        intervals [258]:
+            xmin = 1324.48
+            xmax = 1325.48
+            text = "That's right."
+        intervals [259]:
+            xmin = 1325.48
+            xmax = 1327.48
+            text = "Delta 2903, taxi, Victor Loop."
+        intervals [260]:
+            xmin = 1327.48
+            xmax = 1329.48
+            text = "Victor Loop, Delta 2903."
+        intervals [261]:
+            xmin = 1329.48
+            xmax = 1332.48
+            text = "Delta 2107, contact departure."
+        intervals [262]:
+            xmin = 1332.48
+            xmax = 1334.48
+            text = "Departure, Delta 107, good day."
+        intervals [263]:
+            xmin = 1334.48
+            xmax = 1336.48
+            text = "Good day, Skyward 4168."
+        intervals [264]:
+            xmin = 1336.48
+            xmax = 1340.48
+            text = "Yeah, we're at 4168, just past 8J, 26R."
+        intervals [265]:
+            xmin = 1340.48
+            xmax = 1343.48
+            text = "Skyward 4168, Atlanta Tower, wind 0404,"
+        intervals [266]:
+            xmin = 1343.48
+            xmax = 1345.48
+            text = "runway 26R, cleared to land."
+        intervals [267]:
+            xmin = 1345.48
+            xmax = 1348.48
+            text = "Thank you, Skyward 4168, okay."
+        intervals [268]:
+            xmin = 1348.48
+            xmax = 1350.48
+            text = "SA, social visuals and you trying to test"
+        intervals [269]:
+            xmin = 1350.48
+            xmax = 1352.48
+            text = "if they will print this, that is good."
+        intervals [270]:
+            xmin = 1352.48
+            xmax = 1354.48
+            text = "26R has been infected."
+        intervals [271]:
+            xmin = 1354.48
+            xmax = 1355.48
+            text = "Okay."
+        intervals [272]:
+            xmin = 1355.48
+            xmax = 1356.48
+            text = "Bunch of flow over here,"
+        intervals [273]:
+            xmin = 1356.48
+            xmax = 1358.48
+            text = "west, ones, or south, if you care about that."
+        intervals [274]:
+            xmin = 1358.48
+            xmax = 1360.48
+            text = "I'm Aron Avondale, Delta 2903, on the Victor Loop,"
+        intervals [275]:
+            xmin = 1360.48
+            xmax = 1364.48
+            text = "Skyward 4168, cleared to land, 26R."
+        intervals [276]:
+            xmin = 1364.48
+            xmax = 1365.48
+            text = "Tailwind?"
+        intervals [277]:
+            xmin = 1365.48
+            xmax = 1366.48
+            text = "Okay."
+        intervals [278]:
+            xmin = 1366.48
+            xmax = 1367.48
+            text = "Minimal?"
+        intervals [279]:
+            xmin = 1367.48
+            xmax = 1368.48
+            text = "That's the AT."
+        intervals [280]:
+            xmin = 1368.48
+            xmax = 1369.48
+            text = "ATR."
+        intervals [281]:
+            xmin = 1369.48
+            xmax = 1374.48
+            text = "[Silence]"
+        intervals [282]:
+            xmin = 1374.48
+            xmax = 1378.48
+            text = "Delta 898, RNA 26R, runway 26L, cleared to takeoff."
+        intervals [283]:
+            xmin = 1378.48
+            xmax = 1379.48
+            text = "[Silence]"
+        intervals [284]:
+            xmin = 1379.48
+            xmax = 1382.48
+            text = "98, RNA 26R, cleared to takeoff, 26L."
+        intervals [285]:
+            xmin = 1382.48
+            xmax = 1385.48
+            text = "Delta 733, Atlanta Tower, runway 26L, final point."
+        intervals [286]:
+            xmin = 1385.48
+            xmax = 1388.48
+            text = "Final point, 26L, Delta 733."
+        intervals [287]:
+            xmin = 1388.48
+            xmax = 1394.48
+            text = "[Silence]"
+        intervals [288]:
+            xmin = 1394.48
+            xmax = 1395.48
+            text = "Thank you."
+        intervals [289]:
+            xmin = 1395.48
+            xmax = 1424.48
+            text = "[Silence]"
+        intervals [290]:
+            xmin = 1424.48
+            xmax = 1449.48
+            text = "Delta 733, RNA 26R, runway 26L, cleared to takeoff."
+        intervals [291]:
+            xmin = 1449.48
+            xmax = 1452.48
+            text = "RNA 26R, cleared to takeoff, 26L, Delta 733."
+        intervals [292]:
+            xmin = 1452.48
+            xmax = 1455.48
+            text = "Delta 2868, Atlanta Tower, runway 26L, final point."
+        intervals [293]:
+            xmin = 1455.48
+            xmax = 1458.48
+            text = "26L, final point, Delta 2868."
+        intervals [294]:
+            xmin = 1458.48
+            xmax = 1467.48
+            text = "[Silence]"
+        intervals [295]:
+            xmin = 1467.48
+            xmax = 1469.48
+            text = "Delta 898, contact departure."
+        intervals [296]:
+            xmin = 1469.48
+            xmax = 1470.48
+            text = "[Silence]"
+        intervals [297]:
+            xmin = 1470.48
+            xmax = 1472.48
+            text = "Delta 898, good day."
+        intervals [298]:
+            xmin = 1472.48
+            xmax = 1473.48
+            text = "Good day."
+        intervals [299]:
+            xmin = 1473.48
+            xmax = 1482.48
+            text = "[Silence]"
+        intervals [300]:
+            xmin = 1482.48
+            xmax = 1492.48
+            text = "Delta 2868, RNA 26R, runway 26L, cleared to takeoff."
+        intervals [301]:
+            xmin = 1492.48
+            xmax = 1495.48
+            text = "RNA 26R, runway 26L, cleared to takeoff, 2868."
+        intervals [302]:
+            xmin = 1495.48
+            xmax = 1498.48
+            text = "Delta 916, Atlanta Tower, runway 26L, final point."
+        intervals [303]:
+            xmin = 1498.48
+            xmax = 1501.48
+            text = "Final point, 26L, Delta 916."
+        intervals [304]:
+            xmin = 1501.48
+            xmax = 1512.48
+            text = "[Silence]"
+        intervals [305]:
+            xmin = 1512.48
+            xmax = 1541.48
+            text = "Delta 916, RNA 26R, cleared to takeoff."
+        intervals [306]:
+            xmin = 1541.48
+            xmax = 1545.48
+            text = "Cleared to takeoff, 26L, RNA 26R, Delta 916."
+        intervals [307]:
+            xmin = 1545.48
+            xmax = 1548.48
+            text = "Delta 1183, Atlanta Tower, runway 26L, final point."
+        intervals [308]:
+            xmin = 1548.48
+            xmax = 1550.48
+            text = "26L, Atlanta Tower, runway 26L, final point."
+        intervals [309]:
+            xmin = 1550.48
+            xmax = 1552.48
+            text = "Delta 733, contact departure."
+        intervals [310]:
+            xmin = 1552.48
+            xmax = 1555.48
+            text = "Contact departure, Delta 733, good day."
+        intervals [311]:
+            xmin = 1555.48
+            xmax = 1557.48
+            text = "Good day."
+        intervals [312]:
+            xmin = 1557.48
+            xmax = 1571.48
+            text = "[Silence]"
+        intervals [313]:
+            xmin = 1571.48
+            xmax = 1598.48
+            text = "Delta 2868, contact departure."
+        intervals [314]:
+            xmin = 1598.48
+            xmax = 1600.48
+            text = "Contact departure, Delta 2868."
+        intervals [315]:
+            xmin = 1600.48
+            xmax = 1615.48
+            text = "[Silence]"
+        intervals [316]:
+            xmin = 1615.48
+            xmax = 1619.48
+            text = "Delta 1183, RNA 26L, runway 26L, cleared to takeoff."
+        intervals [317]:
+            xmin = 1619.48
+            xmax = 1622.48
+            text = "RNA 26L, cleared to takeoff, Delta 186."
+        intervals [318]:
+            xmin = 1622.48
+            xmax = 1628.48
+            text = "Delta 830, Atlanta Tower, runway 26L, final point."
+        intervals [319]:
+            xmin = 1628.48
+            xmax = 1630.48
+            text = "26L, final point, Delta 830."
+        intervals [320]:
+            xmin = 1630.48
+            xmax = 1652.48
+            text = "[Silence]"
+        intervals [321]:
+            xmin = 1652.48
+            xmax = 1671.48
+            text = "Delta 830, RNA 26L, cleared to takeoff."
+        intervals [322]:
+            xmin = 1671.48
+            xmax = 1674.48
+            text = "RNA 26L, cleared to takeoff, Delta 830."
+        intervals [323]:
+            xmin = 1674.48
+            xmax = 1677.48
+            text = "Delta 418, Atlanta Tower, 126L, final point."
+        intervals [324]:
+            xmin = 1677.48
+            xmax = 1679.48
+            text = "Delta 418, Delta 418."
+        intervals [325]:
+            xmin = 1679.48
+            xmax = 1681.48
+            text = "Delta 916, contact departure."
+        intervals [326]:
+            xmin = 1681.48
+            xmax = 1686.48
+            text = "Contact departure, Delta 916."
+        intervals [327]:
+            xmin = 1686.48
+            xmax = 1709.48
+            text = "[Silence]"
+        intervals [328]:
+            xmin = 1709.48
+            xmax = 1718.48
+            text = "Delta 1183, contact departure."
+        intervals [329]:
+            xmin = 1718.48
+            xmax = 1720.48
+            text = "Good day, Delta 1183."
+        intervals [330]:
+            xmin = 1720.48
+            xmax = 1722.48
+            text = "Good day."
+        intervals [331]:
+            xmin = 1722.48
+            xmax = 1726.48
+            text = "Delta 418, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [332]:
+            xmin = 1726.48
+            xmax = 1729.48
+            text = "RNA VIN pass, cleared for takeoff, 26L, Delta 418."
+        intervals [333]:
+            xmin = 1729.48
+            xmax = 1739.48
+            text = "[Silence]"
+        intervals [334]:
+            xmin = 1739.48
+            xmax = 1748.48
+            text = "Southwest 2756, Atlanta Tower, runway 26L, final point."
+        intervals [335]:
+            xmin = 1748.48
+            xmax = 1752.48
+            text = "runway 26L, final point, southwest 2756."
+        intervals [336]:
+            xmin = 1752.48
+            xmax = 1770.48
+            text = "[Silence]"
+        intervals [337]:
+            xmin = 1770.48
+            xmax = 1772.48
+            text = "Delta 830, contact departure."
+        intervals [338]:
+            xmin = 1772.48
+            xmax = 1784.48
+            text = "Good day, Delta 830."
+        intervals [339]:
+            xmin = 1784.48
+            xmax = 1788.48
+            text = "Southwest 2756, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [340]:
+            xmin = 1788.48
+            xmax = 1796.48
+            text = "runway 26L, cleared for takeoff, RNA VIN pass, Southwest 2756."
+        intervals [341]:
+            xmin = 1796.48
+            xmax = 1799.48
+            text = "[Silence]"
+        intervals [342]:
+            xmin = 1799.48
+            xmax = 1818.48
+            text = "Delta 418, contact departure."
+        intervals [343]:
+            xmin = 1818.48
+            xmax = 1820.48
+            text = "Switching to partial, Delta 418, good morning."
+        intervals [344]:
+            xmin = 1820.48
+            xmax = 1821.48
+            text = "Good morning."
+        intervals [345]:
+            xmin = 1821.48
+            xmax = 1829.48
+            text = "[Silence]"
+        intervals [346]:
+            xmin = 1829.48
+            xmax = 1854.48
+            text = "Good morning."
+        intervals [347]:
+            xmin = 1854.48
+            xmax = 1863.48
+            text = "Delta 530."
+        intervals [348]:
+            xmin = 1863.48
+            xmax = 1867.48
+            text = "Southwest 2987, Atlanta Tower, 126L, final point."
+        intervals [349]:
+            xmin = 1867.48
+            xmax = 1881.48
+            text = "runway 26L, Southwest 2987."
+        intervals [350]:
+            xmin = 1881.48
+            xmax = 1884.48
+            text = "Southwest 2756, contact departure."
+        intervals [351]:
+            xmin = 1884.48
+            xmax = 1911.48
+            text = "Contact departure, Southwest 2756."
+        intervals [352]:
+            xmin = 1911.48
+            xmax = 1915.48
+            text = "Southwest 2987, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [353]:
+            xmin = 1915.48
+            xmax = 1920.48
+            text = "cleared for takeoff, 26L, RNA VIN pass, Southwest 2897, cleared for takeoff."
+        intervals [354]:
+            xmin = 1920.48
+            xmax = 1923.48
+            text = "Delta 892, Atlanta Tower, runway 26L, final point."
+        intervals [355]:
+            xmin = 1923.48
+            xmax = 1927.48
+            text = "26L, runway 1892."
+        intervals [356]:
+            xmin = 1927.48
+            xmax = 1941.48
+            text = "[Silence]"
+        intervals [357]:
+            xmin = 1941.48
+            xmax = 1942.48
+            text = "Good morning."
+        intervals [358]:
+            xmin = 1942.48
+            xmax = 1943.48
+            text = "Good morning."
+        intervals [359]:
+            xmin = 1943.48
+            xmax = 1944.48
+            text = "Good morning."
+        intervals [360]:
+            xmin = 1944.48
+            xmax = 1945.48
+            text = "Good morning."
+        intervals [361]:
+            xmin = 1945.48
+            xmax = 1946.48
+            text = "Good morning."
+        intervals [362]:
+            xmin = 1946.48
+            xmax = 1947.48
+            text = "Good morning."
+        intervals [363]:
+            xmin = 1947.48
+            xmax = 1948.48
+            text = "Good morning."
+        intervals [364]:
+            xmin = 1948.48
+            xmax = 1949.48
+            text = "Good morning."
+        intervals [365]:
+            xmin = 1949.48
+            xmax = 1950.48
+            text = "Good morning."
+        intervals [366]:
+            xmin = 1950.48
+            xmax = 1951.48
+            text = "Good morning."
+        intervals [367]:
+            xmin = 1951.48
+            xmax = 1952.48
+            text = "Good morning."
+        intervals [368]:
+            xmin = 1952.48
+            xmax = 1953.48
+            text = "Good morning."
+        intervals [369]:
+            xmin = 1953.48
+            xmax = 1954.48
+            text = "Good morning."
+        intervals [370]:
+            xmin = 1954.48
+            xmax = 1955.48
+            text = "Good morning."
+        intervals [371]:
+            xmin = 1955.48
+            xmax = 1956.48
+            text = "Good morning."
+        intervals [372]:
+            xmin = 1956.48
+            xmax = 1957.48
+            text = "Good morning."
+        intervals [373]:
+            xmin = 1957.48
+            xmax = 1958.48
+            text = "Good morning."
+        intervals [374]:
+            xmin = 1958.48
+            xmax = 1960.48
+            text = "Good morning."
+        intervals [375]:
+            xmin = 1960.48
+            xmax = 1988.48
+            text = "[Silence]"
+        intervals [376]:
+            xmin = 1988.48
+            xmax = 1998.48
+            text = "Delta 892, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [377]:
+            xmin = 1998.48
+            xmax = 2001.48
+            text = "RNA VIN pass, 26L, cleared for takeoff, Delta 892."
+        intervals [378]:
+            xmin = 2001.48
+            xmax = 2004.48
+            text = "Delta 2100, Atlanta Tower, runway 26L, final point."
+        intervals [379]:
+            xmin = 2004.48
+            xmax = 2007.48
+            text = "26L, final point, Delta, 2100."
+        intervals [380]:
+            xmin = 2007.48
+            xmax = 2019.48
+            text = "[Silence]"
+        intervals [381]:
+            xmin = 2019.48
+            xmax = 2022.48
+            text = "Southwest 2987, contact departure."
+        intervals [382]:
+            xmin = 2022.48
+            xmax = 2026.48
+            text = "Contact departure, Alpha, 2987."
+        intervals [383]:
+            xmin = 2026.48
+            xmax = 2038.48
+            text = "[Silence]"
+        intervals [384]:
+            xmin = 2038.48
+            xmax = 2042.48
+            text = "Delta 2100, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [385]:
+            xmin = 2042.48
+            xmax = 2046.48
+            text = "RNA VIN pass, 26L, cleared for takeoff, Delta 2100."
+        intervals [386]:
+            xmin = 2046.48
+            xmax = 2050.48
+            text = "Southwest 32, 26L, tower, runway 26L, final point."
+        intervals [387]:
+            xmin = 2050.48
+            xmax = 2053.48
+            text = "Tower, runway 26L, final point."
+        intervals [388]:
+            xmin = 2053.48
+            xmax = 2057.48
+            text = "Tower, runway 26L, 36L, 26L."
+        intervals [389]:
+            xmin = 2057.48
+            xmax = 2076.48
+            text = "[Silence]"
+        intervals [390]:
+            xmin = 2076.48
+            xmax = 2093.48
+            text = "Southwest 3696, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [391]:
+            xmin = 2093.48
+            xmax = 2101.48
+            text = "26L, cleared for takeoff, RNA VIN pass, 3696."
+        intervals [392]:
+            xmin = 2101.48
+            xmax = 2104.48
+            text = "Delta 1546, Atlanta Tower, runway 26L, final point."
+        intervals [393]:
+            xmin = 2104.48
+            xmax = 2106.48
+            text = "26L, final point, Delta 1546."
+        intervals [394]:
+            xmin = 2106.48
+            xmax = 2109.48
+            text = "Delta 1892, contact departure."
+        intervals [395]:
+            xmin = 2109.48
+            xmax = 2111.48
+            text = "Departure, Delta 1892, thanks."
+        intervals [396]:
+            xmin = 2111.48
+            xmax = 2131.48
+            text = "[Silence]"
+        intervals [397]:
+            xmin = 2131.48
+            xmax = 2138.48
+            text = "Delta 1546, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [398]:
+            xmin = 2138.48
+            xmax = 2142.48
+            text = "Delta 1546, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [399]:
+            xmin = 2142.48
+            xmax = 2145.48
+            text = "Delta 1546, RNA VIN pass, runway 26L, cleared for takeoff."
+        intervals [400]:
+            xmin = 2145.48
+            xmax = 2149.48
+            text = "Delta 777, Atlanta Tower, runway 26L, final point."
+        intervals [401]:
+            xmin = 2149.48
+            xmax = 2152.48
+            text = "26L, final point, Delta 777."
+        intervals [402]:
+            xmin = 2152.48
+            xmax = 2154.48
+            text = "Delta 2100, contact departure."
+        intervals [403]:
+            xmin = 2154.48
+            xmax = 2156.48
+            text = "Contact departure, Atlanta Tower."
+        intervals [404]:
+            xmin = 2156.48
+            xmax = 2161.48
+            text = "[Silence]"
+        intervals [405]:
+            xmin = 2161.48
+            xmax = 2177.48
+            text = "Grounded 638, three Southwest Romeo."
+        intervals [406]:
+            xmin = 2177.48
+            xmax = 2180.48
+            text = "Three South, grounded point seven five."
+        intervals [407]:
+            xmin = 2180.48
+            xmax = 2190.48
+            text = "Southwest 3696, contact Horscher."
+        intervals [408]:
+            xmin = 2190.48
+            xmax = 2192.48
+            text = "Good day, 3696."
+        intervals [409]:
+            xmin = 2192.48
+            xmax = 2194.48
+            text = "Good day."
+        intervals [410]:
+            xmin = 2194.48
+            xmax = 2204.48
+            text = "[Silence]"
+        intervals [411]:
+            xmin = 2204.48
+            xmax = 2208.48
+            text = "Delta 777, RNAV-2 Snuffy, 126L, cleared for takeoff."
+        intervals [412]:
+            xmin = 2208.48
+            xmax = 2212.48
+            text = "RNAV-2 Snuffy, 26L, cleared for takeoff, Delta 777."
+        intervals [413]:
+            xmin = 2212.48
+            xmax = 2216.48
+            text = "Delta 2966, Linen Tower, runway 26L, line up and wait, traffic will be downfield."
+        intervals [414]:
+            xmin = 2216.48
+            xmax = 2220.48
+            text = "Delta 2966, line up and wait, runway 26L."
+        intervals [415]:
+            xmin = 2220.48
+            xmax = 2228.48
+            text = "[Silence]"
+        intervals [416]:
+            xmin = 2228.48
+            xmax = 2231.48
+            text = "Delta 1546, contact Horscher."
+        intervals [417]:
+            xmin = 2231.48
+            xmax = 2233.48
+            text = "Delta 1546, Horscher, Horscher."
+        intervals [418]:
+            xmin = 2233.48
+            xmax = 2238.48
+            text = "[Silence]"
+        intervals [419]:
+            xmin = 2238.48
+            xmax = 2240.48
+            text = "Delta 26L, Horscher, runway 26L."
+        intervals [420]:
+            xmin = 2240.48
+            xmax = 2250.48
+            text = "[Silence]"
+        intervals [421]:
+            xmin = 2250.48
+            xmax = 2255.48
+            text = "Tug 0, Tower, traffic's landing position at Delta, cross runway 26L, hold short, runway 26R."
+        intervals [422]:
+            xmin = 2255.48
+            xmax = 2258.48
+            text = "Delta, we'll cross 26L, hold short of 26R, Tug 0."
+        intervals [423]:
+            xmin = 2258.48
+            xmax = 2262.48
+            text = "Tug 7, at Charlie, cross runway 26L, hold short, runway 26R."
+        intervals [424]:
+            xmin = 2262.48
+            xmax = 2266.48
+            text = "Okay, we'll cross 26L, short 26R, Tug 7."
+        intervals [425]:
+            xmin = 2266.48
+            xmax = 2268.48
+            text = "Tug 0, monitor Tower, 191."
+        intervals [426]:
+            xmin = 2268.48
+            xmax = 2270.48
+            text = "191, Tug 0."
+        intervals [427]:
+            xmin = 2270.48
+            xmax = 2272.48
+            text = "Tug 7, monitor Tower, 191."
+        intervals [428]:
+            xmin = 2272.48
+            xmax = 2274.48
+            text = "191, Tug 7."
+        intervals [429]:
+            xmin = 2274.48
+            xmax = 2296.48
+            text = "Delta 777, contact Horscher."
+        intervals [430]:
+            xmin = 2296.48
+            xmax = 2298.48
+            text = "Good day, Delta 777."
+        intervals [431]:
+            xmin = 2298.48
+            xmax = 2299.48
+            text = "Good day."
+        intervals [432]:
+            xmin = 2299.48
+            xmax = 2304.48
+            text = "[Silence]"
+        intervals [433]:
+            xmin = 2304.48
+            xmax = 2323.48
+            text = "Delta 777, contact Horscher."
+        intervals [434]:
+            xmin = 2323.48
+            xmax = 2327.48
+            text = "Delta 2966, RNAV-2 in pass, runway 26L, cleared for takeoff."
+        intervals [435]:
+            xmin = 2327.48
+            xmax = 2331.48
+            text = "RNAV in pass, 26L cleared for takeoff, Delta 2966."
+        intervals [436]:
+            xmin = 2331.48
+            xmax = 2334.48
+            text = "Delta 2966, Atlanta Tower, runway 26L, final point."
+        intervals [437]:
+            xmin = 2334.48
+            xmax = 2336.48
+            text = "Final point, runway 26L, Delta 366."
+        intervals [438]:
+            xmin = 2336.48
+            xmax = 2361.48
+            text = "[Silence]"
+        intervals [439]:
+            xmin = 2361.48
+            xmax = 2372.48
+            text = "Delta 366, RNAV-2 in pass, runway 26L, cleared for takeoff."
+        intervals [440]:
+            xmin = 2372.48
+            xmax = 2375.48
+            text = "RNAV-2 in pass, runway 26L, cleared for takeoff, Delta 366."
+        intervals [441]:
+            xmin = 2375.48
+            xmax = 2379.48
+            text = "Delta 2808, Atlanta Tower, runway 26L, final point."
+        intervals [442]:
+            xmin = 2379.48
+            xmax = 2385.48
+            text = "runway 26L, line up away, Delta 2808."
+        intervals [443]:
+            xmin = 2385.48
+            xmax = 2391.48
+            text = "[Silence]"
+        intervals [444]:
+            xmin = 2391.48
+            xmax = 2419.48
+            text = "Delta 2808, RNAV-2 in pass, runway 26L, final point."
+        intervals [445]:
+            xmin = 2419.48
+            xmax = 2423.48
+            text = "Delta 2808, RNAV-2 in pass, runway 26L, cleared for takeoff."
+        intervals [446]:
+            xmin = 2423.48
+            xmax = 2428.48
+            text = "RNAV in pass, runway 26L, cleared for takeoff, Southwest 2808."
+        intervals [447]:
+            xmin = 2428.48
+            xmax = 2431.48
+            text = "Delta 2991, Atlanta Tower, runway 26L, final point."
+        intervals [448]:
+            xmin = 2431.48
+            xmax = 2434.48
+            text = "26L final point, Delta 2991."
+        intervals [449]:
+            xmin = 2434.48
+            xmax = 2437.48
+            text = "Delta 2966, contact Horscher."
+        intervals [450]:
+            xmin = 2437.48
+            xmax = 2438.48
+            text = "2966, good morning."
+        intervals [451]:
+            xmin = 2438.48
+            xmax = 2439.48
+            text = "Good morning."
+        intervals [452]:
+            xmin = 2439.48
+            xmax = 2449.48
+            text = "[Silence]"
+        intervals [453]:
+            xmin = 2449.48
+            xmax = 2471.48
+            text = "Delta 2991, RNAV-2 snuffing, runway 26L, cleared for takeoff."
+        intervals [454]:
+            xmin = 2471.48
+            xmax = 2475.48
+            text = "26L, cleared for takeoff, RNAV-2 snuffing, Delta 2991."
+        intervals [455]:
+            xmin = 2475.48
+            xmax = 2478.48
+            text = "Delta 2991, Atlanta Tower, runway 26L, final point."
+        intervals [456]:
+            xmin = 2478.48
+            xmax = 2481.48
+            text = "5.26L, Delta 2301."
+        intervals [457]:
+            xmin = 2481.48
+            xmax = 2484.48
+            text = "Delta 366, contact Horscher."
+        intervals [458]:
+            xmin = 2484.48
+            xmax = 2486.48
+            text = "Contact Horscher, good morning, Delta 366."
+        intervals [459]:
+            xmin = 2486.48
+            xmax = 2487.48
+            text = "Good morning."
+        intervals [460]:
+            xmin = 2487.48
+            xmax = 2505.48
+            text = "[Silence]"
+        intervals [461]:
+            xmin = 2505.48
+            xmax = 2512.48
+            text = "Delta 2808, contact Horscher."
+        intervals [462]:
+            xmin = 2512.48
+            xmax = 2517.48
+            text = "Delta 2808, have a beautiful day."
+        intervals [463]:
+            xmin = 2517.48
+            xmax = 2518.48
+            text = "Thank you, too."
+        intervals [464]:
+            xmin = 2518.48
+            xmax = 2535.48
+            text = "[Silence]"
+        intervals [465]:
+            xmin = 2535.48
+            xmax = 2563.48
+            text = "Delta 2301, RNAV-2 snuffing, runway 26L, cleared for takeoff."
+        intervals [466]:
+            xmin = 2563.48
+            xmax = 2568.48
+            text = "Delta 2991, contact Horscher."
+        intervals [467]:
+            xmin = 2568.48
+            xmax = 2582.48
+            text = "Delta 2991, good day."
+        intervals [468]:
+            xmin = 2582.48
+            xmax = 2593.48
+            text = "[Silence]"
+        intervals [469]:
+            xmin = 2593.48
+            xmax = 2618.48
+            text = "Delta 2991, contact Horscher."
+        intervals [470]:
+            xmin = 2618.48
+            xmax = 2621.48
+            text = "Delta 2991, contact Horscher."
+        intervals [471]:
+            xmin = 2621.48
+            xmax = 2648.48
+            text = "[Silence]"
+        intervals [472]:
+            xmin = 2648.48
+            xmax = 2655.48
+            text = "Delta 2301, contact Horscher."
+        intervals [473]:
+            xmin = 2655.48
+            xmax = 2656.48
+            text = "Delta 2301, good day."
+        intervals [474]:
+            xmin = 2656.48
+            xmax = 2657.48
+            text = "You, too."
+        intervals [475]:
+            xmin = 2657.48
+            xmax = 2672.48
+            text = "Delta 346, RNAV-2 snuffing, runway 26L, cleared for takeoff."
+        intervals [476]:
+            xmin = 2672.48
+            xmax = 2678.48
+            text = "[Silence]"
+        intervals [477]:
+            xmin = 2678.48
+            xmax = 2705.48
+            text = "Delta 2991, contact Horscher."
+        intervals [478]:
+            xmin = 2705.48
+            xmax = 2712.48
+            text = "Delta 2632, Atlanta Tower, runway 26L, final point."
+        intervals [479]:
+            xmin = 2712.48
+            xmax = 2715.48
+            text = "Final point, 26L, Delta 2632."
+        intervals [480]:
+            xmin = 2715.48
+            xmax = 2718.48
+            text = "Endeavour 5478, contact Horscher."
+        intervals [481]:
+            xmin = 2718.48
+            xmax = 2721.48
+            text = "Contact Horscher, Endeavour 5478."
+        intervals [482]:
+            xmin = 2721.48
+            xmax = 2735.48
+            text = "[Silence]"
+        intervals [483]:
+            xmin = 2735.48
+            xmax = 2764.48
+            text = "Delta 2632, RNAV-2 snuffing, runway 26L, cleared for takeoff."
+        intervals [484]:
+            xmin = 2764.48
+            xmax = 2769.48
+            text = "RNAV-2 snuffing, cleared for takeoff, 26L, Delta 2632."
+        intervals [485]:
+            xmin = 2769.48
+            xmax = 2772.48
+            text = "Delta 346, contact Horscher."
+        intervals [486]:
+            xmin = 2772.48
+            xmax = 2774.48
+            text = "Delta 346, good day."
+        intervals [487]:
+            xmin = 2774.48
+            xmax = 2775.48
+            text = "Good day."
+        intervals [488]:
+            xmin = 2775.48
+            xmax = 2794.48
+            text = "[Silence]"
+        intervals [489]:
+            xmin = 2794.48
+            xmax = 2801.48
+            text = "All right, ma'am, cleared to land with Delta 2298."
+        intervals [490]:
+            xmin = 2801.48
+            xmax = 2803.48
+            text = "You know I wouldn't do that to you."
+        intervals [491]:
+            xmin = 2803.48
+            xmax = 2806.48
+            text = "2298 is cleared to land, 2314 is rolling out, and that is it."
+        intervals [492]:
+            xmin = 2806.48
+            xmax = 2807.48
+            text = "I have it."
+        intervals [493]:
+            xmin = 2807.48
+            xmax = 2808.48
+            text = "See you."
+        intervals [494]:
+            xmin = 2808.48
+            xmax = 2822.48
+            text = "Delta 2314, taxi to the Victor Loop."
+        intervals [495]:
+            xmin = 2822.48
+            xmax = 2824.48
+            text = "Victor Loop, Delta 2314."
+        intervals [496]:
+            xmin = 2824.48
+            xmax = 2852.48
+            text = "[Silence]"
+        intervals [497]:
+            xmin = 2852.48
+            xmax = 2870.48
+            text = "Delta 2632, contact Horscher."
+        intervals [498]:
+            xmin = 2870.48
+            xmax = 2872.48
+            text = "Horscher, Delta 2632."
+        intervals [499]:
+            xmin = 2872.48
+            xmax = 2900.48
+            text = "[Silence]"
+        intervals [500]:
+            xmin = 2900.48
+            xmax = 2906.48
+            text = "Delta 2298, taxi to the Victor Loop."
+        intervals [501]:
+            xmin = 2906.48
+            xmax = 2908.48
+            text = "Victor Loop for Delta 2298."
+        intervals [502]:
+            xmin = 2908.48
+            xmax = 2911.48
+            text = "You know, 348, Atlanta Tower, runway 26L, final point."
+        intervals [503]:
+            xmin = 2911.48
+            xmax = 2914.48
+            text = "Atlanta Tower, runway 26L, United 340."
+        intervals [504]:
+            xmin = 2914.48
+            xmax = 2917.48
+            text = "Delta 1212, over H8."
+        intervals [505]:
+            xmin = 2917.48
+            xmax = 2922.48
+            text = "Delta 1212, Atlanta Tower, 10205, runway 26R, cleared to land."
+        intervals [506]:
+            xmin = 2922.48
+            xmax = 2925.48
+            text = "Cleared to land, 26R, Delta 1212."
+        intervals [507]:
+            xmin = 2925.48
+            xmax = 2930.48
+            text = "[Silence]"
+        intervals [508]:
+            xmin = 2930.48
+            xmax = 2953.48
+            text = "Delta 1212, over H8."
+        intervals [509]:
+            xmin = 2953.48
+            xmax = 2957.48
+            text = "United 340, RNAV, SNOTC, runway 26L, cleared for takeoff."
+        intervals [510]:
+            xmin = 2957.48
+            xmax = 2961.48
+            text = "Takeoff, runway 26L, RNAV, SNOTC, United 340."
+        intervals [511]:
+            xmin = 2961.48
+            xmax = 2964.48
+            text = "Delta 1298, Atlanta Tower, runway 26L, final point."
+        intervals [512]:
+            xmin = 2964.48
+            xmax = 2968.48
+            text = "runway 26L, Delta 1298, and can you turn the localizer on, please?"
+        intervals [513]:
+            xmin = 2968.48
+            xmax = 2972.48
+            text = "Sure, it'll take a few seconds, but I'll do that."
+        intervals [514]:
+            xmin = 2972.48
+            xmax = 2987.48
+            text = "[Silence]"
+        intervals [515]:
+            xmin = 2987.48
+            xmax = 3000.48
+            text = "Amy, just get here."
+        intervals [516]:
+            xmin = 3000.48
+            xmax = 3002.48
+            text = "Okay."
+        intervals [517]:
+            xmin = 3002.48
+            xmax = 3004.48
+            text = "That's how you set the visuals in use."
+        intervals [518]:
+            xmin = 3004.48
+            xmax = 3006.48
+            text = "Okay."
+        intervals [519]:
+            xmin = 3006.48
+            xmax = 3008.48
+            text = "We're on my test field."
+        intervals [520]:
+            xmin = 3008.48
+            xmax = 3009.48
+            text = "That's good."
+        intervals [521]:
+            xmin = 3009.48
+            xmax = 3010.48
+            text = "All right, then."
+        intervals [522]:
+            xmin = 3010.48
+            xmax = 3013.48
+            text = "On the upwind, United 341, position Delta 1298."
+        intervals [523]:
+            xmin = 3013.48
+            xmax = 3015.48
+            text = "It reflects the localizer on, so I turn it on."
+        intervals [524]:
+            xmin = 3015.48
+            xmax = 3017.48
+            text = "Total note, it'll take a few seconds."
+        intervals [525]:
+            xmin = 3017.48
+            xmax = 3019.48
+            text = "I'm about to touch down to Delta 1212."
+        intervals [526]:
+            xmin = 3019.48
+            xmax = 3021.48
+            text = "I'm not talking to 1611 yet."
+        intervals [527]:
+            xmin = 3021.48
+            xmax = 3022.48
+            text = "That is the AC."
+        intervals [528]:
+            xmin = 3022.48
+            xmax = 3024.48
+            text = "All right."
+        intervals [529]:
+            xmin = 3024.48
+            xmax = 3028.48
+            text = "Delta 1298, RNAV, down past, 26L, cleared for takeoff."
+        intervals [530]:
+            xmin = 3028.48
+            xmax = 3036.48
+            text = "All right, down past, 26L, cleared for takeoff, that's 1298."
+        intervals [531]:
+            xmin = 3036.48
+            xmax = 3038.48
+            text = "Delta 1611, that's H8, goodbye."
+        intervals [532]:
+            xmin = 3038.48
+            xmax = 3041.48
+            text = "Delta 1611, Tower, 26R, cleared to land."
+        intervals [533]:
+            xmin = 3041.48
+            xmax = 3049.48
+            text = "Tower, 26R, Delta 1611."
+        intervals [534]:
+            xmin = 3049.48
+            xmax = 3051.48
+            text = "United 340, contact Parker."
+        intervals [535]:
+            xmin = 3051.48
+            xmax = 3064.48
+            text = "United 340, speaking."
+        intervals [536]:
+            xmin = 3064.48
+            xmax = 3067.48
+            text = "Delta 1212, activate the loop."
+        intervals [537]:
+            xmin = 3067.48
+            xmax = 3068.48
+            text = "[Silence]"
+        intervals [538]:
+            xmin = 3068.48
+            xmax = 3070.48
+            text = "Delta 1212."
+        intervals [539]:
+            xmin = 3070.48
+            xmax = 3080.48
+            text = "[Silence]"
+        intervals [540]:
+            xmin = 3080.48
+            xmax = 3083.48
+            text = "WestJet 1599, Tower, 26L, line up and wait."
+        intervals [541]:
+            xmin = 3083.48
+            xmax = 3087.48
+            text = "Line up and wait, runway 26L, WestJet 1599."
+        intervals [542]:
+            xmin = 3087.48
+            xmax = 3097.48
+            text = "[Silence]"
+        intervals [543]:
+            xmin = 3097.48
+            xmax = 3115.48
+            text = "WestJet 1599, RNAV to snuffy, 26L, cleared for takeoff."
+        intervals [544]:
+            xmin = 3115.48
+            xmax = 3121.48
+            text = "RNAV to snuffy, 26L, cleared for takeoff, 26L, WestJet 1599."
+        intervals [545]:
+            xmin = 3121.48
+            xmax = 3123.48
+            text = "Delta 1298, contact Parker."
+        intervals [546]:
+            xmin = 3123.48
+            xmax = 3127.48
+            text = "Contact Parker, Delta 1298."
+        intervals [547]:
+            xmin = 3127.48
+            xmax = 3129.48
+            text = "Delta 2112, at aging."
+        intervals [548]:
+            xmin = 3129.48
+            xmax = 3132.48
+            text = "Delta 2112, Tower, 26R, cleared to land."
+        intervals [549]:
+            xmin = 3132.48
+            xmax = 3135.48
+            text = "26R, cleared to land for Delta 2112."
+        intervals [550]:
+            xmin = 3135.48
+            xmax = 3152.48
+            text = "Delta 2112, Tower, 26R, line up and wait."
+        intervals [551]:
+            xmin = 3152.48
+            xmax = 3156.48
+            text = "Line up and wait, 26L, WestJet 1599."
+        intervals [552]:
+            xmin = 3156.48
+            xmax = 3165.48
+            text = "[Silence]"
+        intervals [553]:
+            xmin = 3165.48
+            xmax = 3173.48
+            text = "Delta 1611, taxi vehicle loop."
+        intervals [554]:
+            xmin = 3173.48
+            xmax = 3176.48
+            text = "Taxi vehicle loop, Delta 1611."
+        intervals [555]:
+            xmin = 3176.48
+            xmax = 3195.48
+            text = "[Silence]"
+        intervals [556]:
+            xmin = 3195.48
+            xmax = 3206.48
+            text = "Delta 2507, RNAV to snuffy, 26L, cleared for takeoff."
+        intervals [557]:
+            xmin = 3206.48
+            xmax = 3209.48
+            text = "Cleared for takeoff, 26L, RNAV to snuffy, Delta 26L, 7."
+        intervals [558]:
+            xmin = 3209.48
+            xmax = 3212.48
+            text = "Spirit Wings 1301, Tower, 26L, line up and wait."
+        intervals [559]:
+            xmin = 3212.48
+            xmax = 3215.48
+            text = "26L, line up and wait, Spirit Wings 1301."
+        intervals [560]:
+            xmin = 3215.48
+            xmax = 3219.48
+            text = "[Silence]"
+        intervals [561]:
+            xmin = 3219.48
+            xmax = 3224.48
+            text = "Attention aircraft, Bravo to Spock, strike current departure to Sierra, line up and wait, 3011."
+        intervals [562]:
+            xmin = 3224.48
+            xmax = 3225.48
+            text = "[Silence]"
+        intervals [563]:
+            xmin = 3225.48
+            xmax = 3246.48
+            text = "WestJet 1599, contact departure."
+        intervals [564]:
+            xmin = 3246.48
+            xmax = 3254.48
+            text = "WestJet 1599, agreed."
+        intervals [565]:
+            xmin = 3254.48
+            xmax = 3258.48
+            text = "Delta 2112, taxi vehicle loop."
+        intervals [566]:
+            xmin = 3258.48
+            xmax = 3261.48
+            text = "Delta 2463, 26R, cleared to land."
+        intervals [567]:
+            xmin = 3261.48
+            xmax = 3272.48
+            text = "26R, cleared to land, Delta 2462."
+        intervals [568]:
+            xmin = 3272.48
+            xmax = 3275.48
+            text = "Spirit 1301, RNAV to snuffy, 26L, cleared for takeoff."
+        intervals [569]:
+            xmin = 3275.48
+            xmax = 3279.48
+            text = "RNAV to snuffy, 26L, cleared for takeoff, Spirit Wings 1301."
+        intervals [570]:
+            xmin = 3279.48
+            xmax = 3282.48
+            text = "Delta 2502, 26L, line up and wait."
+        intervals [571]:
+            xmin = 3282.48
+            xmax = 3284.48
+            text = "Line up and wait, 26L, Delta 2502."
+        intervals [572]:
+            xmin = 3284.48
+            xmax = 3310.48
+            text = "[Silence]"
+        intervals [573]:
+            xmin = 3310.48
+            xmax = 3313.48
+            text = "Delta 2507, contact departure."
+        intervals [574]:
+            xmin = 3313.48
+            xmax = 3335.48
+            text = "Contact departure, Delta 2507."
+        intervals [575]:
+            xmin = 3335.48
+            xmax = 3339.48
+            text = "Delta 2502, RNAV to snuffy, 26L, cleared for takeoff."
+        intervals [576]:
+            xmin = 3339.48
+            xmax = 3343.48
+            text = "RNAV to snuffy, 26L, cleared for takeoff, Delta 2507."
+        intervals [577]:
+            xmin = 3343.48
+            xmax = 3346.48
+            text = "Delta 786, RNAV to snuffy, 26L, line up and wait."
+        intervals [578]:
+            xmin = 3346.48
+            xmax = 3348.48
+            text = "26L, line up and wait, Delta 786."
+        intervals [579]:
+            xmin = 3348.48
+            xmax = 3349.48
+            text = "Drop friendly down."
+        intervals [580]:
+            xmin = 3349.48
+            xmax = 3350.48
+            text = "That's right."
+        intervals [581]:
+            xmin = 3350.48
+            xmax = 3360.48
+            text = "[Silence]"
+        intervals [582]:
+            xmin = 3360.48
+            xmax = 3362.48
+            text = "Spirit 1301, contact departure."
+        intervals [583]:
+            xmin = 3362.48
+            xmax = 3364.48
+            text = "Contact departure, Spirit 1301."
+        intervals [584]:
+            xmin = 3364.48
+            xmax = 3384.48
+            text = "[Silence]"
+        intervals [585]:
+            xmin = 3384.48
+            xmax = 3387.48
+            text = "Tower, Southwest 3789, HA inbound, 26R."
+        intervals [586]:
+            xmin = 3387.48
+            xmax = 3391.48
+            text = "Southwest 3789, Tower 26R, cleared to land."
+        intervals [587]:
+            xmin = 3391.48
+            xmax = 3394.48
+            text = "Southwest 3789, 26R, cleared to land."
+        intervals [588]:
+            xmin = 3394.48
+            xmax = 3399.48
+            text = "Delta 2463, taxi to Victor Luke and give way to the southwest tug from right to left of the hotel."
+        intervals [589]:
+            xmin = 3399.48
+            xmax = 3402.48
+            text = "Victor Luke, give way to southwest tug, Delta 2466."
+        intervals [590]:
+            xmin = 3402.48
+            xmax = 3408.48
+            text = "Southwest maintenance 7876, at the west end, cross 26R, join Victor, kind of ground point 9."
+        intervals [591]:
+            xmin = 3408.48
+            xmax = 3412.48
+            text = "Cross 26R, Victor, ground point 9, southwest maintenance 7876."
+        intervals [592]:
+            xmin = 3412.48
+            xmax = 3416.48
+            text = "Delta 786, RNAV to snuffy, 26L, cleared for takeoff."
+        intervals [593]:
+            xmin = 3416.48
+            xmax = 3419.48
+            text = "RNAV to snuffy, 26L, cleared for takeoff, Delta 786."
+        intervals [594]:
+            xmin = 3419.48
+            xmax = 3422.48
+            text = "Delta 1728, 26L, line up and wait."
+        intervals [595]:
+            xmin = 3422.48
+            xmax = 3425.48
+            text = "26L, line up and wait, Delta 1720."
+        intervals [596]:
+            xmin = 3425.48
+            xmax = 3429.48
+            text = "[Silence]"
+        intervals [597]:
+            xmin = 3429.48
+            xmax = 3432.48
+            text = "Delta 2502, contact departure."
+        intervals [598]:
+            xmin = 3432.48
+            xmax = 3434.48
+            text = "See you later, Delta 2502."
+        intervals [599]:
+            xmin = 3434.48
+            xmax = 3449.48
+            text = "[Silence]"
+        intervals [600]:
+            xmin = 3449.48
+            xmax = 3470.48
+            text = "Delta 1728, RNAV DIN passed, 26L, cleared for takeoff."
+        intervals [601]:
+            xmin = 3470.48
+            xmax = 3474.48
+            text = "RNAV DIN passed, 26L, cleared for takeoff, Delta 1728."
+        intervals [602]:
+            xmin = 3474.48
+            xmax = 3479.48
+            text = "[Silence]"
+        intervals [603]:
+            xmin = 3479.48
+            xmax = 3503.48
+            text = "Delta 786, contact departure."
+        intervals [604]:
+            xmin = 3503.48
+            xmax = 3505.48
+            text = "Good morning, Delta 786."
+        intervals [605]:
+            xmin = 3505.48
+            xmax = 3507.48
+            text = "Delta 2171, 86."
+        intervals [606]:
+            xmin = 3507.48
+            xmax = 3510.48
+            text = "Delta 2171, tower 26R, cleared to land."
+        intervals [607]:
+            xmin = 3510.48
+            xmax = 3513.48
+            text = "Cleared to land, 26R, Delta 2171."
+        intervals [608]:
+            xmin = 3513.48
+            xmax = 3537.48
+            text = "[Silence]"
+        intervals [609]:
+            xmin = 3537.48
+            xmax = 3555.48
+            text = "South of 3789, Abrava 2, cross 26L, join Echo and kind of ground point 9."
+        intervals [610]:
+            xmin = 3555.48
+            xmax = 3562.48
+            text = "Abrava 2, cross 26L and Echo, south of 3789."
+        intervals [611]:
+            xmin = 3562.48
+            xmax = 3564.48
+            text = "Delta 1728, contact departure."
+        intervals [612]:
+            xmin = 3564.48
+            xmax = 3566.48
+            text = "Delta 1728, contact departure."
+        intervals [613]:
+            xmin = 3566.48
+            xmax = 3594.48
+            text = "[Silence]"
+        intervals [614]:
+            xmin = 3594.48
+            xmax = 3607.48
+            text = "Thanks for the quick cross, 3789."
+        intervals [615]:
+            xmin = 3607.48
+            xmax = 3608.48
+            text = "Have a good one, man."
+        intervals [616]:
+            xmin = 3608.48
+            xmax = 3619.48
+            text = "See you."
+        intervals [617]:
+            xmin = 3619.48
+            xmax = 3621.48
+            text = "Tower 26R, cleared to land."
+        intervals [618]:
+            xmin = 3621.48
+            xmax = 3622.48
+            text = "Tower 26R, cleared to land."
+        intervals [619]:
+            xmin = 3622.48
+            xmax = 3623.48
+            text = "Tower 26R, cleared to land."
+        intervals [620]:
+            xmin = 3623.48
+            xmax = 3624.48
+            text = "Tower 26R, cleared to land."
+        intervals [621]:
+            xmin = 3624.48
+            xmax = 3625.48
+            text = "Tower 26R, cleared to land."
+        intervals [622]:
+            xmin = 3625.48
+            xmax = 3626.48
+            text = "Tower 26R, cleared to land."
+        intervals [623]:
+            xmin = 3626.48
+            xmax = 3627.48
+            text = "Tower 26R, cleared to land."
+        intervals [624]:
+            xmin = 3627.48
+            xmax = 3628.48
+            text = "Tower 26R, cleared to land."
+        intervals [625]:
+            xmin = 3628.48
+            xmax = 3629.48
+            text = "Tower 26R, cleared to land."
+        intervals [626]:
+            xmin = 3629.48
+            xmax = 3630.48
+            text = "Tower 26R, cleared to land."
+        intervals [627]:
+            xmin = 3630.48
+            xmax = 3631.48
+            text = "Tower 26R, cleared to land."
+        intervals [628]:
+            xmin = 3631.48
+            xmax = 3632.48
+            text = "Tower 26R, cleared to land."
+        intervals [629]:
+            xmin = 3632.48
+            xmax = 3633.48
+            text = "Tower 26R, cleared to land."
+        intervals [630]:
+            xmin = 3633.48
+            xmax = 3634.48
+            text = "Tower 26R, cleared to land."
+        intervals [631]:
+            xmin = 3634.48
+            xmax = 3635.48
+            text = "Tower 26R, cleared to land."
+        intervals [632]:
+            xmin = 3635.48
+            xmax = 3636.48
+            text = "Tower 26R, cleared to land."
+        intervals [633]:
+            xmin = 3636.48
+            xmax = 3637.48
+            text = "Tower 26R, cleared to land."
+        intervals [634]:
+            xmin = 3637.48
+            xmax = 3638.48
+            text = "Tower 26R, cleared to land."
+        intervals [635]:
+            xmin = 3638.48
+            xmax = 3639.48
+            text = "Tower 26R, cleared to land."
+        intervals [636]:
+            xmin = 3639.48
+            xmax = 3640.48
+            text = "Tower 26R, cleared to land."
+        intervals [637]:
+            xmin = 3640.48
+            xmax = 3641.48
+            text = "Tower 26R, cleared to land."
+        intervals [638]:
+            xmin = 3641.48
+            xmax = 3642.48
+            text = "Tower 26R, cleared to land."
+        intervals [639]:
+            xmin = 3642.48
+            xmax = 3643.48
+            text = "Tower 26R, cleared to land."
+        intervals [640]:
+            xmin = 3643.48
+            xmax = 3644.48
+            text = "Tower 26R, cleared to land."
+        intervals [641]:
+            xmin = 3644.48
+            xmax = 3645.48
+            text = "Tower 26R, cleared to land."
+        intervals [642]:
+            xmin = 3645.48
+            xmax = 3646.48
+            text = "Tower 26R, cleared to land."
+        intervals [643]:
+            xmin = 3646.48
+            xmax = 3647.48
+            text = "Tower 26R, cleared to land."
+        intervals [644]:
+            xmin = 3647.48
+            xmax = 3648.48
+            text = "Tower 26R, cleared to land."
+        intervals [645]:
+            xmin = 3648.48
+            xmax = 3649.48
+            text = "Tower 26R, cleared to land."
+        intervals [646]:
+            xmin = 3649.48
+            xmax = 3650.48
+            text = "Tower 26R, cleared to land."
+        intervals [647]:
+            xmin = 3650.48
+            xmax = 3651.48
+            text = "Tower 26R, cleared to land."
+        intervals [648]:
+            xmin = 3651.48
+            xmax = 3652.48
+            text = "Tower 26R, cleared to land."
+        intervals [649]:
+            xmin = 3652.48
+            xmax = 3653.48
+            text = "Tower 26R, cleared to land."
+        intervals [650]:
+            xmin = 3653.48
+            xmax = 3654.48
+            text = "Tower 26R, cleared to land."
+        intervals [651]:
+            xmin = 3654.48
+            xmax = 3655.48
+            text = "Tower 26R, cleared to land."
+        intervals [652]:
+            xmin = 3655.48
+            xmax = 3656.48
+            text = "Tower 26R, cleared to land."
+        intervals [653]:
+            xmin = 3656.48
+            xmax = 3657.48
+            text = "Tower 26R, cleared to land."
+        intervals [654]:
+            xmin = 3657.48
+            xmax = 3658.48
+            text = "Tower 26R, cleared to land."
+        intervals [655]:
+            xmin = 3658.48
+            xmax = 3659.48
+            text = "Tower 26R, cleared to land."
+        intervals [656]:
+            xmin = 3659.48
+            xmax = 3660.48
+            text = "Tower 26R, cleared to land."
+        intervals [657]:
+            xmin = 3660.48
+            xmax = 3660.98
+            text = "Tower 26R, cleared to land."
+        intervals [658]:
+            xmin = 3660.98
+            xmax = 3689.48
+            text = "[Silence]"
+        intervals [659]:
+            xmin = 3689.48
+            xmax = 3690.48
+            text = "Tower 26R, cleared to land."
+        intervals [660]:
+            xmin = 3690.48
+            xmax = 3690.98
+            text = "Tower 26R, cleared to land."
+        intervals [661]:
+            xmin = 3690.98
+            xmax = 3719.48
+            text = "[Silence]"
+        intervals [662]:
+            xmin = 3719.48
+            xmax = 3742.48
+            text = "Tower 26R, cleared to land."
+        intervals [663]:
+            xmin = 3742.48
+            xmax = 3745.48
+            text = "Tower 26R, cleared to land."
+        intervals [664]:
+            xmin = 3745.48
+            xmax = 3746.48
+            text = "Tower 26R, cleared to land."
+        intervals [665]:
+            xmin = 3746.48
+            xmax = 3747.48
+            text = "Tower 26R, cleared to land."
+        intervals [666]:
+            xmin = 3747.48
+            xmax = 3748.1
+            text = "Tower 26R, cleared to land."
+        intervals [667]:
+            xmin = 3748.1
+            xmax = 3748.98
+            text = "Tower 26R, cleared to land."
+        intervals [668]:
+            xmin = 3748.98
+            xmax = 3770.42
+            text = "Friendly 490, turn left Delta, cross 26L, pass behind the 17 from your right and hold"
+        intervals [669]:
+            xmin = 3770.42
+            xmax = 3771.42
+            text = "short of 6N."
+        intervals [670]:
+            xmin = 3771.42
+            xmax = 3772.42
+            text = "[Silence]"
+        intervals [671]:
+            xmin = 3772.42
+            xmax = 3780.42
+            text = "Left on Delta, cross 26L and behind the Delta and hold short of the land 749."
+        intervals [672]:
+            xmin = 3780.42
+            xmax = 3782.42
+            text = "The 717."
+        intervals [673]:
+            xmin = 3782.42
+            xmax = 3785.42
+            text = "The 717, 749."
+        intervals [674]:
+            xmin = 3785.42
+            xmax = 3795.42
+            text = "[Silence]"
+        intervals [675]:
+            xmin = 3795.42
+            xmax = 3799.42
+            text = "Is that a 2268 tower?"
+        intervals [676]:
+            xmin = 3799.42
+            xmax = 3801.42
+            text = "Alright, go ahead, 2268."
+        intervals [677]:
+            xmin = 3801.42
+            xmax = 3803.42
+            text = "Give way to the caravan."
+        intervals [678]:
+            xmin = 3803.42
+            xmax = 3805.42
+            text = "Okay, we'll give way to the caravan, Delta, 2268."
+        intervals [679]:
+            xmin = 3805.42
+            xmax = 3808.42
+            text = "Friendly 490, you're good, just keep going."
+        intervals [680]:
+            xmin = 3808.42
+            xmax = 3809.42
+            text = "[Silence]"
+        intervals [681]:
+            xmin = 3809.42
+            xmax = 3811.42
+            text = "Friendly 490."
+        intervals [682]:
+            xmin = 3811.42
+            xmax = 3812.42
+            text = "Friendly 490."
+        intervals [683]:
+            xmin = 3812.42
+            xmax = 3814.42
+            text = "Friendly 490, good to go."
+        intervals [684]:
+            xmin = 3814.42
+            xmax = 3816.42
+            text = "Yeah, see you."
+        intervals [685]:
+            xmin = 3816.42
+            xmax = 3830.42
+            text = "[Silence]"
+        intervals [686]:
+            xmin = 3830.42
+            xmax = 3832.42
+            text = "Delta, how are you doing today?"
+        intervals [687]:
+            xmin = 3832.42
+            xmax = 3834.42
+            text = "Delta, 2678, 2C3."
+        intervals [688]:
+            xmin = 3834.42
+            xmax = 3838.42
+            text = "Delta, 2678, 2C3, cleared to land, wind 0205."
+        intervals [689]:
+            xmin = 3838.42
+            xmax = 3842.42
+            text = "Alright, cleared to land on 26R, Delta, 26L, okay."
+        intervals [690]:
+            xmin = 3842.42
+            xmax = 3848.42
+            text = "[Silence]"
+        intervals [691]:
+            xmin = 3848.42
+            xmax = 3853.42
+            text = "Denver 5291 tower, 2C3 left, line up white, caution weight turbulence, heavy left or right off the end."
+        intervals [692]:
+            xmin = 3853.42
+            xmax = 3855.42
+            text = "Yeah, we're still waiting on the flight, isn't it?"
+        intervals [693]:
+            xmin = 3855.42
+            xmax = 3857.42
+            text = "Alright, pull off to the right then."
+        intervals [694]:
+            xmin = 3857.42
+            xmax = 3859.42
+            text = "Alright, we'll pull off to the right."
+        intervals [695]:
+            xmin = 3859.42
+            xmax = 3865.42
+            text = "Denver 5291, just hold short of T6, well, yeah, just pull off to the right, let me know when you're ready."
+        intervals [696]:
+            xmin = 3865.42
+            xmax = 3867.42
+            text = "Just ding this, we're ready, we can line up white, T6 left."
+        intervals [697]:
+            xmin = 3867.42
+            xmax = 3870.42
+            text = "Alright, well then line up white, T6 left, Denver 5291."
+        intervals [698]:
+            xmin = 3870.42
+            xmax = 3872.42
+            text = "Line up white, T6 left, F691."
+        intervals [699]:
+            xmin = 3872.42
+            xmax = 3887.42
+            text = "[Silence]"
+        intervals [700]:
+            xmin = 3887.42
+            xmax = 3889.42
+            text = "Delta 1464, taxi vacate the loop."
+        intervals [701]:
+            xmin = 3889.42
+            xmax = 3891.42
+            text = "Taxi vacate the loop, Delta 1464."
+        intervals [702]:
+            xmin = 3891.42
+            xmax = 3917.42
+            text = "[Silence]"
+        intervals [703]:
+            xmin = 3917.42
+            xmax = 3941.42
+            text = "Denver 5291, RNAVDM passed, T6 left, call this a takeoff."
+        intervals [704]:
+            xmin = 3941.42
+            xmax = 3942.42
+            text = "[Silence]"
+        intervals [705]:
+            xmin = 3942.42
+            xmax = 3946.42
+            text = "Are you cut off there?"
+        intervals [706]:
+            xmin = 3946.42
+            xmax = 3952.42
+            text = "Oh boy, here we go, Endeavour 5291, RNAVDM passed, T6 left, clear for takeoff."
+        intervals [707]:
+            xmin = 3952.42
+            xmax = 3955.42
+            text = "RNAVDM passed, T6 left, clear for takeoff, Endeavour 5291."
+        intervals [708]:
+            xmin = 3955.42
+            xmax = 3958.42
+            text = "Delta 2035, T6 left, line up and wait."
+        intervals [709]:
+            xmin = 3958.42
+            xmax = 3962.42
+            text = "T6 left, line up and wait, Delta 2035."
+        intervals [710]:
+            xmin = 3962.42
+            xmax = 3965.42
+            text = "Tower, good morning, Southwest 609, visual 26R."
+        intervals [711]:
+            xmin = 3965.42
+            xmax = 3968.42
+            text = "Southwest 609 tower, 26R, cleared to land."
+        intervals [712]:
+            xmin = 3968.42
+            xmax = 3971.42
+            text = "26R, cleared to land, Southwest 609."
+        intervals [713]:
+            xmin = 3971.42
+            xmax = 3977.42
+            text = "[Silence]"
+        intervals [714]:
+            xmin = 3977.42
+            xmax = 3980.42
+            text = "Delta 2678, taxi vacate the loop."
+        intervals [715]:
+            xmin = 3980.42
+            xmax = 3982.42
+            text = "Vacate the loop, Delta 2678."
+        intervals [716]:
+            xmin = 3982.42
+            xmax = 3986.42
+            text = "Delta 2035, RNAVDM to snuffy, T6 left, clear for takeoff."
+        intervals [717]:
+            xmin = 3986.42
+            xmax = 3991.42
+            text = "T6 left, clear for takeoff, RNAVDM to snuffy, Delta 2035."
+        intervals [718]:
+            xmin = 3991.42
+            xmax = 3994.42
+            text = "Delta 20268, T6 left, line up and wait."
+        intervals [719]:
+            xmin = 3994.42
+            xmax = 3997.42
+            text = "T6 left, line up and wait, Delta 20268."
+        intervals [720]:
+            xmin = 3997.42
+            xmax = 3998.42
+            text = "[Silence]"
+        intervals [721]:
+            xmin = 3998.42
+            xmax = 4028.42
+            text = "T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy,"
+        intervals [722]:
+            xmin = 4028.42
+            xmax = 4035.42
+            text = "T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff,"
+        intervals [723]:
+            xmin = 4035.42
+            xmax = 4058.42
+            text = "[Silence]"
+        intervals [724]:
+            xmin = 4058.42
+            xmax = 4065.42
+            text = "RNAVDM to snuffy, T6 left, clear for takeoff, RNAVDM to snuffy, T6 left, clear for takeoff,"
+        intervals [725]:
+            xmin = 4065.42
+            xmax = 4088.7799999999997
+            text = "[Silence]"
+        intervals [726]:
+            xmin = 4088.7799999999997
+            xmax = 4095.7799999999997
+            text = "RNAVDM to snuffy, RNAVDM to snuffy, RNAVDM to snuffy, RNAVDM to snuffy, RNAVDM to snuffy,"
+        intervals [727]:
+            xmin = 4095.7799999999997
+            xmax = 4100.64
+            text = "[Silence]"
+        intervals [728]:
+            xmin = 4100.64
+            xmax = 4107.64
+            text = "RNAVDM to snuffy, RNAVDM to snuffy, RNAVDM to snuffy, RNAVDM to snuffy, RNAVDM to snuffy,"
+        intervals [729]:
+            xmin = 4107.64
+            xmax = 4109.64
+            text = "Plane 35, contact departure."
+        intervals [730]:
+            xmin = 4109.64
+            xmax = 4110.64
+            text = "[Silence]"
+        intervals [731]:
+            xmin = 4110.64
+            xmax = 4112.64
+            text = "Plane 35, you take care."
+        intervals [732]:
+            xmin = 4112.64
+            xmax = 4130.64
+            text = "[Silence]"
+        intervals [733]:
+            xmin = 4130.64
+            xmax = 4132.64
+            text = "Southwest 609T, speak to Luke."
+        intervals [734]:
+            xmin = 4132.64
+            xmax = 4135.64
+            text = "Speak to Luke, Southwest 609."
+        intervals [735]:
+            xmin = 4135.64
+            xmax = 4137.64
+            text = "[Silence]"
+        intervals [736]:
+            xmin = 4137.64
+            xmax = 4150.64
+            text = "Southwest 1771, RNAV Dampass runway 26L, clear for takeoff."
+        intervals [737]:
+            xmin = 4150.64
+            xmax = 4154.64
+            text = "RNAV Dampass, clear for takeoff, 26L, Southwest 1771."
+        intervals [738]:
+            xmin = 4154.64
+            xmax = 4158.64
+            text = "[Silence]"
+        intervals [739]:
+            xmin = 4158.64
+            xmax = 4160.64
+            text = "Delta 20, 268, contact departure."
+        intervals [740]:
+            xmin = 4160.64
+            xmax = 4162.64
+            text = "Departure C, Delta 20, 268."
+        intervals [741]:
+            xmin = 4162.64
+            xmax = 4165.64
+            text = "Morning Tower, Delta 20, 268, clear to visual 26L."
+        intervals [742]:
+            xmin = 4165.64
+            xmax = 4168.64
+            text = "Southwest 2350, 26R, cleared to land."
+        intervals [743]:
+            xmin = 4168.64
+            xmax = 4170.64
+            text = "Plane 26R, Southwest 2380."
+        intervals [744]:
+            xmin = 4170.64
+            xmax = 4183.64
+            text = "[Silence]"
+        intervals [745]:
+            xmin = 4183.64
+            xmax = 4186.64
+            text = "Delta 1366T, 26L, line up and wait."
+        intervals [746]:
+            xmin = 4186.64
+            xmax = 4191.64
+            text = "Line up and wait, Delta 1366."
+        intervals [747]:
+            xmin = 4191.64
+            xmax = 4192.64
+            text = "[Silence]"
+        intervals [748]:
+            xmin = 4192.64
+            xmax = 4194.64
+            text = "Delta 965, contact departure."
+        intervals [749]:
+            xmin = 4194.64
+            xmax = 4196.64
+            text = "Good day, Delta 965."
+        intervals [750]:
+            xmin = 4196.64
+            xmax = 4222.64
+            text = "[Silence]"
+        intervals [751]:
+            xmin = 4222.64
+            xmax = 4229.64
+            text = "Delta 1366, RNAV Dampass, runway 26L, clear for takeoff."
+        intervals [752]:
+            xmin = 4229.64
+            xmax = 4235.64
+            text = "RNAV Dampass, runway 26L, clear for takeoff, Delta 1366."
+        intervals [753]:
+            xmin = 4235.64
+            xmax = 4238.64
+            text = "Delta 807T, 26L, line up and wait."
+        intervals [754]:
+            xmin = 4238.64
+            xmax = 4240.64
+            text = "26L, line up and wait, Delta 807."
+        intervals [755]:
+            xmin = 4240.64
+            xmax = 4252.64
+            text = "[Silence]"
+        intervals [756]:
+            xmin = 4252.64
+            xmax = 4257.64
+            text = "Southwest 1771, contact departure."
+        intervals [757]:
+            xmin = 4257.64
+            xmax = 4260.64
+            text = "Departure Southwest 1771, good day."
+        intervals [758]:
+            xmin = 4260.64
+            xmax = 4271.64
+            text = "[Silence]"
+        intervals [759]:
+            xmin = 4271.64
+            xmax = 4275.64
+            text = "Delta 807, RNAV to Snuffy, runway 26L, clear for takeoff."
+        intervals [760]:
+            xmin = 4275.64
+            xmax = 4279.64
+            text = "RNAV to Snuffy, runway 26L, clear for takeoff, Delta 807."
+        intervals [761]:
+            xmin = 4279.64
+            xmax = 4281.64
+            text = "[Silence]"
+        intervals [762]:
+            xmin = 4281.64
+            xmax = 4292.64
+            text = "Delta 2788, is off-site AJA for 26R."
+        intervals [763]:
+            xmin = 4292.64
+            xmax = 4295.64
+            text = "Delta 2788T, 26R, cleared to land."
+        intervals [764]:
+            xmin = 4295.64
+            xmax = 4298.64
+            text = "Cleared to land, 26R, Delta 2788."
+        intervals [765]:
+            xmin = 4298.64
+            xmax = 4305.64
+            text = "[Silence]"
+        intervals [766]:
+            xmin = 4305.64
+            xmax = 4310.64
+            text = "Super Tux 6T at Delta, cross 26R, hold short 26L."
+        intervals [767]:
+            xmin = 4310.64
+            xmax = 4314.64
+            text = "I cleared across 26R, hold short of 26L on Delta, Tux 6."
+        intervals [768]:
+            xmin = 4314.64
+            xmax = 4318.64
+            text = "[Silence]"
+        intervals [769]:
+            xmin = 4318.64
+            xmax = 4323.64
+            text = "South of 2350, turn left on Bravo, hold short of 26L to Bravo 4."
+        intervals [770]:
+            xmin = 4323.64
+            xmax = 4326.64
+            text = "Left there on Bravo, hold short 26L, Bravo 4, south of 2380."
+        intervals [771]:
+            xmin = 4326.64
+            xmax = 4329.64
+            text = "Delta 1366, contact departure."
+        intervals [772]:
+            xmin = 4329.64
+            xmax = 4331.64
+            text = "Departure 1366."
+        intervals [773]:
+            xmin = 4331.64
+            xmax = 4336.64
+            text = "Tux 6 at Delta, cross 26L, short of 6N, contact ramp."
+        intervals [774]:
+            xmin = 4336.64
+            xmax = 4339.64
+            text = "Cleared across 26L, on Delta, Tux 6."
+        intervals [775]:
+            xmin = 4339.64
+            xmax = 4340.64
+            text = "[Silence]"
+        intervals [776]:
+            xmin = 4340.64
+            xmax = 4345.64
+            text = "Southwest 2350, a Bravo 4, cross 26L, join ECHO and kind of ground 0.9."
+        intervals [777]:
+            xmin = 4345.64
+            xmax = 4350.64
+            text = "Bravo 4, cleared across 26L, ECHO, just switch to ramp, South of 2380."
+        intervals [778]:
+            xmin = 4350.64
+            xmax = 4366.64
+            text = "[Silence]"
+        intervals [779]:
+            xmin = 4366.64
+            xmax = 4368.64
+            text = "We've got 807, contact departure."
+        intervals [780]:
+            xmin = 4368.64
+            xmax = 4370.64
+            text = "We're just departing south of 807."
+        intervals [781]:
+            xmin = 4370.64
+            xmax = 4388.64
+            text = "[Silence]"
+        intervals [782]:
+            xmin = 4388.64
+            xmax = 4391.64
+            text = "Tower, Southwest 1934, AJA 26R."
+        intervals [783]:
+            xmin = 4391.64
+            xmax = 4394.64
+            text = "Southwest 1934, Tower 26R, cleared to land."
+        intervals [784]:
+            xmin = 4394.64
+            xmax = 4397.64
+            text = "Cleared to land 26R, Southwest 1934."
+        intervals [785]:
+            xmin = 4397.64
+            xmax = 4421.64
+            text = "[Silence]"
+        intervals [786]:
+            xmin = 4421.64
+            xmax = 4423.64
+            text = "Thank you for watching."
+        intervals [787]:
+            xmin = 4423.64
+            xmax = 4451.64
+            text = "[Silence]"
+        intervals [788]:
+            xmin = 4451.64
+            xmax = 4452.64
+            text = "You're on guard, though."
+        intervals [789]:
+            xmin = 4452.64
+            xmax = 4453.64
+            text = "Hey, we appreciate that."
+        intervals [790]:
+            xmin = 4453.64
+            xmax = 4454.64
+            text = "Thank you, sir."
+        intervals [791]:
+            xmin = 4454.64
+            xmax = 4457.64
+            text = "Tower, Delta 206 with you, visual 26R."
+        intervals [792]:
+            xmin = 4457.64
+            xmax = 4462.64
+            text = "Delta 2788, turn left on Bravo and hold short of 26L to Bravo 6."
+        intervals [793]:
+            xmin = 4462.64
+            xmax = 4466.64
+            text = "Left turn on Bravo, short of 26L to Bravo 6, Delta 2788."
+        intervals [794]:
+            xmin = 4466.64
+            xmax = 4469.64
+            text = "Delta 506, Tower 26R, cleared to land."
+        intervals [795]:
+            xmin = 4469.64
+            xmax = 4472.64
+            text = "Cleared to land 26R, Delta 506."
+        intervals [796]:
+            xmin = 4472.64
+            xmax = 4476.64
+            text = "Left turn on Bravo, short of 26L to Bravo 6, Delta 2788."
+        intervals [797]:
+            xmin = 4476.64
+            xmax = 4479.64
+            text = "Go to 506, Tower 26R, cleared to land."
+        intervals [798]:
+            xmin = 4479.64
+            xmax = 4482.64
+            text = "Cleared to land 26R, Delta 506."
+        intervals [799]:
+            xmin = 4482.64
+            xmax = 4494.64
+            text = "[Silence]"
+        intervals [800]:
+            xmin = 4494.64
+            xmax = 4496.64
+            text = "Cleared to land, Delta."
+        intervals [801]:
+            xmin = 4496.64
+            xmax = 4499.64
+            text = "961, negative PDC, legend clearance to Dow, Fort Worth."
+        intervals [802]:
+            xmin = 4499.64
+            xmax = 4501.64
+            text = "You're on tower."
+        intervals [803]:
+            xmin = 4501.64
+            xmax = 4503.64
+            text = "Thanks."
+        intervals [804]:
+            xmin = 4503.64
+            xmax = 4508.64
+            text = "Delta 2788, at Bravo 6, cross 26L, join Echo and kind of ground 0.9."
+        intervals [805]:
+            xmin = 4508.64
+            xmax = 4513.64
+            text = "Bravo 6, cross 26L, join Echo, 0.9 to 0.788."
+        intervals [806]:
+            xmin = 4513.64
+            xmax = 4521.64
+            text = "[Silence]"
+        intervals [807]:
+            xmin = 4521.64
+            xmax = 4524.64
+            text = "Tug 2 at Charlie, cross 26R, right on Bravo."
+        intervals [808]:
+            xmin = 4524.64
+            xmax = 4526.64
+            text = "What's that for Tug 2?"
+        intervals [809]:
+            xmin = 4526.64
+            xmax = 4528.64
+            text = "Tug 2, cross 26R, right on Bravo."
+        intervals [810]:
+            xmin = 4528.64
+            xmax = 4531.64
+            text = "Charlie, cross 26R, right on Bravo, Tug 2."
+        intervals [811]:
+            xmin = 4531.64
+            xmax = 4534.64
+            text = "Southwest 35, 19, coming up on 18."
+        intervals [812]:
+            xmin = 4534.64
+            xmax = 4540.64
+            text = "Southwest 19, 34, at Bravo 2, cross 26L, join Echo and kind of ground 0.9."
+        intervals [813]:
+            xmin = 4540.64
+            xmax = 4544.64
+            text = "[Silence]"
+        intervals [814]:
+            xmin = 4544.64
+            xmax = 4548.64
+            text = "At Bravo 2, cross 26L, ground 0.9, Southwest 19, 34."
+        intervals [815]:
+            xmin = 4548.64
+            xmax = 4551.64
+            text = "Southwest 35, 19, Tower 26R, cleared to land."
+        intervals [816]:
+            xmin = 4551.64
+            xmax = 4554.64
+            text = "Cleared to land 26R, Southwest 35, 19."
+        intervals [817]:
+            xmin = 4554.64
+            xmax = 4557.64
+            text = "Tug 2, hold short of 26L to Bravo 4."
+        intervals [818]:
+            xmin = 4557.64
+            xmax = 4561.64
+            text = "At Bravo 4, hold short of 26L, Tug 2."
+        intervals [819]:
+            xmin = 4561.64
+            xmax = 4587.64
+            text = "[Silence]"
+        intervals [820]:
+            xmin = 4587.64
+            xmax = 4589.64
+            text = "Tug 2."
+        intervals [821]:
+            xmin = 4589.64
+            xmax = 4617.64
+            text = "[Silence]"
+        intervals [822]:
+            xmin = 4617.64
+            xmax = 4632.64
+            text = "Delta 5, 06, at Bravo 2, cross 26L, join Foxtrot, contact ground 0.9."
+        intervals [823]:
+            xmin = 4632.64
+            xmax = 4637.64
+            text = "Bravo 2, cleared to cross, 26L, join Foxtrot, point 9, Delta 5, 06."
+        intervals [824]:
+            xmin = 4637.64
+            xmax = 4640.64
+            text = "Tower Delta 1723, is 826R."
+        intervals [825]:
+            xmin = 4640.64
+            xmax = 4643.64
+            text = "Delta 1723, Tower 26R, cleared to land."
+        intervals [826]:
+            xmin = 4643.64
+            xmax = 4646.64
+            text = "Cleared to land, 26R, Delta 1723."
+        intervals [827]:
+            xmin = 4646.64
+            xmax = 4650.64
+            text = "[Silence]"
+        intervals [828]:
+            xmin = 4650.64
+            xmax = 4655.64
+            text = "Tug 2, at Bravo 4, cross 26L, join Echo and kind of ground 0.9."
+        intervals [829]:
+            xmin = 4655.64
+            xmax = 4659.64
+            text = "Bravo 4, cross 26L, join Echo, point 9, Tug 2."
+        intervals [830]:
+            xmin = 4659.64
+            xmax = 4664.64
+            text = "[Silence]"
+        intervals [831]:
+            xmin = 4664.64
+            xmax = 4666.64
+            text = "Gear on card."
+        intervals [832]:
+            xmin = 4666.64
+            xmax = 4673.64
+            text = "[Silence]"
+        intervals [833]:
+            xmin = 4673.64
+            xmax = 4702.64
+            text = "Good morning, JetBlue 797, over AJ."
+        intervals [834]:
+            xmin = 4702.64
+            xmax = 4707.64
+            text = "JetBlue 797, Tower 26R, cleared to land, wind is 030 at 6."
+        intervals [835]:
+            xmin = 4707.64
+            xmax = 4710.64
+            text = "Cleared to land, 26R, JetBlue 797."
+        intervals [836]:
+            xmin = 4710.64
+            xmax = 4717.64
+            text = "Southwest 35, 19, at Bravo, make a left turn on Bravo and hold short of 26L at Bravo 4."
+        intervals [837]:
+            xmin = 4717.64
+            xmax = 4723.64
+            text = "Alright, left turn on Bravo and then hold short of 26L at Bravo 4, Southwest 35, 19."
+        intervals [838]:
+            xmin = 4723.64
+            xmax = 4732.64
+            text = "[Silence]"
+        intervals [839]:
+            xmin = 4732.64
+            xmax = 4746.64
+            text = "Southwest 35, 19, at Bravo 4, cross 26L, join Echo and kind of ground 0.9."
+        intervals [840]:
+            xmin = 4746.64
+            xmax = 4753.64
+            text = "Alright, Bravo 4, cross 26L, join Echo and go to ground 0.9, Southwest 35, 19, thanks."
+        intervals [841]:
+            xmin = 4753.64
+            xmax = 4762.64
+            text = "[Silence]"
+        intervals [842]:
+            xmin = 4762.64
+            xmax = 4775.64
+            text = "Delta 1723, at Bravo 2, cross 26L and contact ground 0.9."
+        intervals [843]:
+            xmin = 4775.64
+            xmax = 4778.64
+            text = "Bravo 2, cross 26L, to ground 0.9, Delta 1723."
+        intervals [844]:
+            xmin = 4778.64
+            xmax = 4781.64
+            text = "Delta 2582, 26R, cleared to land."
+        intervals [845]:
+            xmin = 4781.64
+            xmax = 4786.64
+            text = "Tower, Delta 2582 is AJ, 26R."
+        intervals [846]:
+            xmin = 4786.64
+            xmax = 4789.64
+            text = "Delta 2582, Tower 26R, cleared to land."
+        intervals [847]:
+            xmin = 4789.64
+            xmax = 4792.64
+            text = "Delta 2582, cleared to land, 26R."
+        intervals [848]:
+            xmin = 4792.64
+            xmax = 4813.64
+            text = "[Silence]"
+        intervals [849]:
+            xmin = 4813.64
+            xmax = 4818.64
+            text = "Delta 1017, tower traffic is crossing downfield, 26L, line up and wait."
+        intervals [850]:
+            xmin = 4818.64
+            xmax = 4820.64
+            text = "Line up and wait, 26L, Delta 1017."
+        intervals [851]:
+            xmin = 4820.64
+            xmax = 4848.64
+            text = "Delta Tower, Delta 2093, AJ inbound."
+        intervals [852]:
+            xmin = 4848.64
+            xmax = 4851.64
+            text = "Delta 2093, Tower 26R, cleared to land."
+        intervals [853]:
+            xmin = 4851.64
+            xmax = 4855.64
+            text = "Cleared to land, 26R, Delta 2093."
+        intervals [854]:
+            xmin = 4855.64
+            xmax = 4859.64
+            text = "Delta 1017, RNAV DIN passed, runway 26L, cleared for takeoff."
+        intervals [855]:
+            xmin = 4859.64
+            xmax = 4862.64
+            text = "RNAV DIN passed, 26L, cleared for takeoff, Delta 1017."
+        intervals [856]:
+            xmin = 4862.64
+            xmax = 4867.64
+            text = "JetBlue 797, turn left, Bravo 3, taxi Bravo, Victor and ground on Victor."
+        intervals [857]:
+            xmin = 4867.64
+            xmax = 4873.64
+            text = "Okay, off at Bravo 3, Bravo, Victor, ground on Victor, JetBlue 797."
+        intervals [858]:
+            xmin = 4873.64
+            xmax = 4876.64
+            text = "Delta 648, Tower 26L, line up and wait."
+        intervals [859]:
+            xmin = 4876.64
+            xmax = 4878.64
+            text = "26L, line up and wait, Delta 648."
+        intervals [860]:
+            xmin = 4878.64
+            xmax = 4905.64
+            text = "Atlanta Tower, good morning, captain, 518 heavy, 7 miles final, runway 26R."
+        intervals [861]:
+            xmin = 4905.64
+            xmax = 4909.64
+            text = "European 518 heavy, Atlanta 26R, cleared to land."
+        intervals [862]:
+            xmin = 4909.64
+            xmax = 4914.64
+            text = "Cleared to land, runway 26R, European 518 heavy, and wind check, please."
+        intervals [863]:
+            xmin = 4914.64
+            xmax = 4916.64
+            text = "010 at 5."
+        intervals [864]:
+            xmin = 4916.64
+            xmax = 4931.64
+            text = "Copy, thank you."
+        intervals [865]:
+            xmin = 4931.64
+            xmax = 4936.64
+            text = "Delta 2582X, right off the runway, left turn, Bravo 3, Victor Loop."
+        intervals [866]:
+            xmin = 4936.64
+            xmax = 4941.64
+            text = "Bravo 3, Bravo 3, Victor Loop, Delta 4258."
+        intervals [867]:
+            xmin = 4941.64
+            xmax = 4945.64
+            text = "Delta 648, RNAV DIN passed, 26L, cleared for takeoff."
+        intervals [868]:
+            xmin = 4945.64
+            xmax = 4949.64
+            text = "RNAV DIN passed, cleared for takeoff, 26L, Delta 648."
+        intervals [869]:
+            xmin = 4949.64
+            xmax = 4962.64
+            text = "[Silence]"
+        intervals [870]:
+            xmin = 4962.64
+            xmax = 4969.64
+            text = "Alaska 493, Atlanta Tower, RNAV DIN, runway 26L, cleared for takeoff."
+        intervals [871]:
+            xmin = 4969.64
+            xmax = 4973.64
+            text = "RNAV DIN, 26L, cleared for takeoff, Alaska 493."
+        intervals [872]:
+            xmin = 4973.64
+            xmax = 4975.64
+            text = "Delta 1017, contact departure."
+        intervals [873]:
+            xmin = 4975.64
+            xmax = 4978.64
+            text = "Departure, Delta 1017, see you."
+        intervals [874]:
+            xmin = 4978.64
+            xmax = 4991.64
+            text = "[Silence]"
+        intervals [875]:
+            xmin = 4991.64
+            xmax = 4996.64
+            text = "Delta 2093, taxi Victor Loop."
+        intervals [876]:
+            xmin = 4996.64
+            xmax = 4999.64
+            text = "Sector Loop, Delta 2093."
+        intervals [877]:
+            xmin = 4999.64
+            xmax = 5021.64
+            text = "[Silence]"
+        intervals [878]:
+            xmin = 5021.64
+            xmax = 5023.64
+            text = "Thank you for watching."
+        intervals [879]:
+            xmin = 5023.64
+            xmax = 5052.64
+            text = "[Silence]"
+        intervals [880]:
+            xmin = 5052.64
+            xmax = 5056.64
+            text = "Delta 2848, visual 26R."
+        intervals [881]:
+            xmin = 5056.64
+            xmax = 5060.64
+            text = "Delta 2848, Atlanta Tower, caution wake turbulence, runway 26R, cleared to land."
+        intervals [882]:
+            xmin = 5060.64
+            xmax = 5063.64
+            text = "26R, cleared to land, Delta 2848."
+        intervals [883]:
+            xmin = 5063.64
+            xmax = 5066.64
+            text = "[Silence]"
+        intervals [884]:
+            xmin = 5066.64
+            xmax = 5071.64
+            text = "United 1384, monitor turbulence, Bravo 340, let's request Alpha 648C."
+        intervals [885]:
+            xmin = 5071.64
+            xmax = 5075.64
+            text = "Delta 2073, tower runway 26L, lineup in line."
+        intervals [886]:
+            xmin = 5075.64
+            xmax = 5078.64
+            text = "Delta 2073, 26L, lineup in line."
+        intervals [887]:
+            xmin = 5078.64
+            xmax = 5081.64
+            text = "[Silence]"
+        intervals [888]:
+            xmin = 5081.64
+            xmax = 5086.64
+            text = "Ethiopian 518, heavy, you can make a left turn off at the very end, make a left at the end."
+        intervals [889]:
+            xmin = 5086.64
+            xmax = 5089.64
+            text = "Make a left at the end, Ethiopian 518."
+        intervals [890]:
+            xmin = 5089.64
+            xmax = 5099.64
+            text = "[Silence]"
+        intervals [891]:
+            xmin = 5099.64
+            xmax = 5108.64
+            text = "Ethiopian 518, heavy, at taxiway Hotel, cross 26L, join taxiway Echo and then contact ground 0.9 traffic holding in position."
+        intervals [892]:
+            xmin = 5108.64
+            xmax = 5115.64
+            text = "Copy, taxiway Hotel, cross runway 26L, then join Echo, ground 1219, Ethiopian 518, good day."
+        intervals [893]:
+            xmin = 5115.64
+            xmax = 5118.64
+            text = "Good day, Alaska 493, contact departure."
+        intervals [894]:
+            xmin = 5118.64
+            xmax = 5119.64
+            text = "Alaska 493, see you."
+        intervals [895]:
+            xmin = 5119.64
+            xmax = 5123.64
+            text = "Southwest 3714, tower 26R, cleared to land."
+        intervals [896]:
+            xmin = 5123.64
+            xmax = 5126.64
+            text = "[Silence]"
+        intervals [897]:
+            xmin = 5126.64
+            xmax = 5129.64
+            text = "Tower, Southwest 3714, AJ 26R."
+        intervals [898]:
+            xmin = 5129.64
+            xmax = 5132.64
+            text = "Southwest 3714, tower 26R, cleared to land."
+        intervals [899]:
+            xmin = 5132.64
+            xmax = 5135.64
+            text = "Cleared to land 26R, Southwest 3714."
+        intervals [900]:
+            xmin = 5135.64
+            xmax = 5138.64
+            text = "[Silence]"
+        intervals [901]:
+            xmin = 5138.64
+            xmax = 5139.64
+            text = "Thank you."
+        intervals [902]:
+            xmin = 5139.64
+            xmax = 5169.64
+            text = "[Silence]"
+        intervals [903]:
+            xmin = 5169.64
+            xmax = 5176.64
+            text = "Delta 2073, Arnav to Snuffy, runway 26L, cleared for takeoff."
+        intervals [904]:
+            xmin = 5176.64
+            xmax = 5180.64
+            text = "Delta 2073, Arnav to Snuffy, 26L, cleared for takeoff."
+        intervals [905]:
+            xmin = 5180.64
+            xmax = 5183.64
+            text = "Delta 2928, inbound visual, 26R."
+        intervals [906]:
+            xmin = 5183.64
+            xmax = 5185.64
+            text = "Delta 1621, tower 26L, lineup in line."
+        intervals [907]:
+            xmin = 5185.64
+            xmax = 5188.64
+            text = "Up the way 26L, Delta 1621."
+        intervals [908]:
+            xmin = 5188.64
+            xmax = 5191.64
+            text = "Southwest 2928, tower 26R, cleared to land."
+        intervals [909]:
+            xmin = 5191.64
+            xmax = 5193.64
+            text = "26R, cleared to land, Delta 2928."
+        intervals [910]:
+            xmin = 5193.64
+            xmax = 5198.64
+            text = "[Silence]"
+        intervals [911]:
+            xmin = 5198.64
+            xmax = 5201.64
+            text = "Delta 2848, taxi Vic to Luke."
+        intervals [912]:
+            xmin = 5201.64
+            xmax = 5203.64
+            text = "Vic to Luke, Delta 2848."
+        intervals [913]:
+            xmin = 5203.64
+            xmax = 5228.64
+            text = "[Silence]"
+        intervals [914]:
+            xmin = 5228.64
+            xmax = 5232.64
+            text = "Delta 2621, Arnav to Snuffy, runway 26L, cleared for takeoff."
+        intervals [915]:
+            xmin = 5232.64
+            xmax = 5236.64
+            text = "Arnav to Snuffy, cleared for takeoff, 26L, Delta 26R."
+        intervals [916]:
+            xmin = 5236.64
+            xmax = 5239.64
+            text = "Delta 2207, tower 26L, lineup in line."
+        intervals [917]:
+            xmin = 5239.64
+            xmax = 5242.64
+            text = "[Silence]"
+        intervals [918]:
+            xmin = 5242.64
+            xmax = 5245.64
+            text = "Delta 2207, tower 26L, lineup in line."
+        intervals [919]:
+            xmin = 5245.64
+            xmax = 5248.64
+            text = "26L, lineup in line, go to point zero."
+        intervals [920]:
+            xmin = 5248.64
+            xmax = 5259.64
+            text = "[Silence]"
+        intervals [921]:
+            xmin = 5259.64
+            xmax = 5263.64
+            text = "Delta 2073, contact departure."
+        intervals [922]:
+            xmin = 5263.64
+            xmax = 5266.64
+            text = "Delta 2073, departure."
+        intervals [923]:
+            xmin = 5266.64
+            xmax = 5268.64
+            text = "[Silence]"
+        intervals [924]:
+            xmin = 5268.64
+            xmax = 5272.64
+            text = "Southwest 3714, taxi Vic to Luke."
+        intervals [925]:
+            xmin = 5272.64
+            xmax = 5277.64
+            text = "[Silence]"
+        intervals [926]:
+            xmin = 5277.64
+            xmax = 5280.64
+            text = "Morning, Atlanta Tower, Delta 1181, Swithia A.J."
+        intervals [927]:
+            xmin = 5280.64
+            xmax = 5283.64
+            text = "Southwest 3714, taxi Vic to Luke."
+        intervals [928]:
+            xmin = 5283.64
+            xmax = 5285.64
+            text = "Vic to Luke, great day, Southwest 3714."
+        intervals [929]:
+            xmin = 5285.64
+            xmax = 5286.64
+            text = "[Silence]"
+        intervals [930]:
+            xmin = 5286.64
+            xmax = 5290.64
+            text = "Delta 2207, Arnav to Impasse, 26L, cleared for takeoff."
+        intervals [931]:
+            xmin = 5290.64
+            xmax = 5293.64
+            text = "Arnav to Impasse, 26L, cleared for takeoff, Delta 2207."
+        intervals [932]:
+            xmin = 5293.64
+            xmax = 5296.64
+            text = "Delta 2682, 26L, lineup in line."
+        intervals [933]:
+            xmin = 5296.64
+            xmax = 5299.64
+            text = "Lineup in line, Delta 2682, 26L."
+        intervals [934]:
+            xmin = 5299.64
+            xmax = 5302.64
+            text = "Delta 1181, 26R, cleared to land."
+        intervals [935]:
+            xmin = 5302.64
+            xmax = 5304.64
+            text = "Cleared to land, 26R, Delta 1181."
+        intervals [936]:
+            xmin = 5304.64
+            xmax = 5315.64
+            text = "[Silence]"
+        intervals [937]:
+            xmin = 5315.64
+            xmax = 5317.64
+            text = "Delta 1621, contact departure."
+        intervals [938]:
+            xmin = 5317.64
+            xmax = 5319.64
+            text = "Delta 1621, good day."
+        intervals [939]:
+            xmin = 5319.64
+            xmax = 5345.64
+            text = "[Silence]"
+        intervals [940]:
+            xmin = 5345.64
+            xmax = 5348.64
+            text = "Southwest 2928, taxi Vic to Luke."
+        intervals [941]:
+            xmin = 5348.64
+            xmax = 5350.64
+            text = "Vic to Luke, Southwest 2928."
+        intervals [942]:
+            xmin = 5350.64
+            xmax = 5354.64
+            text = "Delta 2682, Arnav to Impasse, 26L, cleared for takeoff."
+        intervals [943]:
+            xmin = 5354.64
+            xmax = 5358.64
+            text = "Arnav to Impasse, cleared for takeoff, runway 26L, Delta 2682."
+        intervals [944]:
+            xmin = 5358.64
+            xmax = 5361.64
+            text = "Delta 1354, 26L, lineup in line."
+        intervals [945]:
+            xmin = 5361.64
+            xmax = 5365.64
+            text = "Lineup in line, runway 26L, Delta 1354."
+        intervals [946]:
+            xmin = 5365.64
+            xmax = 5368.64
+            text = "Delta 2915, 26R, cleared to land."
+        intervals [947]:
+            xmin = 5368.64
+            xmax = 5371.64
+            text = "Cleared to land, 26R, Delta 2915."
+        intervals [948]:
+            xmin = 5371.64
+            xmax = 5374.64
+            text = "Cleared to land, 26R, Delta 2915."
+        intervals [949]:
+            xmin = 5374.64
+            xmax = 5376.64
+            text = "Delta 2207, contact departure."
+        intervals [950]:
+            xmin = 5376.64
+            xmax = 5379.64
+            text = "Delta 2207, contact departure."
+        intervals [951]:
+            xmin = 5379.64
+            xmax = 5402.64
+            text = "[Silence]"
+        intervals [952]:
+            xmin = 5402.64
+            xmax = 5406.64
+            text = "Delta 1354, Arnav to Sanofi, 26L, cleared for takeoff."
+        intervals [953]:
+            xmin = 5406.64
+            xmax = 5411.64
+            text = "Arnav to Sanofi, cleared for takeoff, 26L, Delta 1354."
+        intervals [954]:
+            xmin = 5411.64
+            xmax = 5414.64
+            text = "Dispatch, 3687, 26L, lineup in line."
+        intervals [955]:
+            xmin = 5414.64
+            xmax = 5417.64
+            text = "26L, lineup in line, Skywalk 368."
+        intervals [956]:
+            xmin = 5417.64
+            xmax = 5431.64
+            text = "[Silence]"
+        intervals [957]:
+            xmin = 5431.64
+            xmax = 5434.64
+            text = "1181, taxi Vic to Luke."
+        intervals [958]:
+            xmin = 5434.64
+            xmax = 5436.64
+            text = "1181, Vic to Luke."
+        intervals [959]:
+            xmin = 5436.64
+            xmax = 5443.64
+            text = "Arnav to Delta 2093, coming up on Delta for Echo 3."
+        intervals [960]:
+            xmin = 5443.64
+            xmax = 5446.64
+            text = "Hello, Delta, you're on guard."
+        intervals [961]:
+            xmin = 5446.64
+            xmax = 5451.64
+            text = "Skywalk 3687, Arnav to Impasse, 26L, cleared for takeoff."
+        intervals [962]:
+            xmin = 5451.64
+            xmax = 5454.64
+            text = "Arnav to Impasse, 26L, cleared for takeoff, Skywalk 3687."
+        intervals [963]:
+            xmin = 5454.64
+            xmax = 5457.64
+            text = "Delta 1375, 26L, lineup in line."
+        intervals [964]:
+            xmin = 5457.64
+            xmax = 5460.64
+            text = "26L, lineup in line, Delta 1375."
+        intervals [965]:
+            xmin = 5460.64
+            xmax = 5462.64
+            text = "Delta 2682, contact departure."
+        intervals [966]:
+            xmin = 5462.64
+            xmax = 5464.64
+            text = "Delta 2682."
+        intervals [967]:
+            xmin = 5464.64
+            xmax = 5472.64
+            text = "[Silence]"
+        intervals [968]:
+            xmin = 5472.64
+            xmax = 5476.64
+            text = "Tower, Delta 2325, AJ 26R."
+        intervals [969]:
+            xmin = 5476.64
+            xmax = 5479.64
+            text = "Delta 2325, Tower 26R, cleared to land."
+        intervals [970]:
+            xmin = 5479.64
+            xmax = 5482.64
+            text = "Cleared to land, 26R, Delta 2325."
+        intervals [971]:
+            xmin = 5482.64
+            xmax = 5490.64
+            text = "[Silence]"
+        intervals [972]:
+            xmin = 5490.64
+            xmax = 5500.64
+            text = "Southwest 1559, approaching AJ 26R."
+        intervals [973]:
+            xmin = 5500.64
+            xmax = 5502.64
+            text = "Delta 1354, contact departure."
+        intervals [974]:
+            xmin = 5502.64
+            xmax = 5505.64
+            text = "Contact departure, Delta 1354."
+        intervals [975]:
+            xmin = 5505.64
+            xmax = 5509.64
+            text = "Southwest 1559?"
+        intervals [976]:
+            xmin = 5509.64
+            xmax = 5511.64
+            text = "Yes, 1559."
+        intervals [977]:
+            xmin = 5511.64
+            xmax = 5514.64
+            text = "Southwest 1559, 26R, cleared to land."
+        intervals [978]:
+            xmin = 5514.64
+            xmax = 5517.64
+            text = "Cleared to land, 26R, Southwest 1559."
+        intervals [979]:
+            xmin = 5517.64
+            xmax = 5521.64
+            text = "[Silence]"
+        intervals [980]:
+            xmin = 5521.64
+            xmax = 5524.64
+            text = "Delta 2915, taxi Vic to Luke."
+        intervals [981]:
+            xmin = 5524.64
+            xmax = 5527.64
+            text = "Vic to Luke, Delta 2915."
+        intervals [982]:
+            xmin = 5527.64
+            xmax = 5533.64
+            text = "[Silence]"
+        intervals [983]:
+            xmin = 5533.64
+            xmax = 5537.64
+            text = "Delta 1375, Arnav to Impasse, 26L, cleared for takeoff."
+        intervals [984]:
+            xmin = 5537.64
+            xmax = 5541.64
+            text = "Arnav to Impasse, 26L, cleared for takeoff, Delta 1375."
+        intervals [985]:
+            xmin = 5541.64
+            xmax = 5545.64
+            text = "Delta 2952, 26L, lineup in line."
+        intervals [986]:
+            xmin = 5545.64
+            xmax = 5549.64
+            text = "Delta 2952, 26L, lineup in line."
+        intervals [987]:
+            xmin = 5549.64
+            xmax = 5556.64
+            text = "[Silence]"
+        intervals [988]:
+            xmin = 5556.64
+            xmax = 5559.64
+            text = "Skywalk 3687, contact departure."
+        intervals [989]:
+            xmin = 5559.64
+            xmax = 5563.64
+            text = "Over to departure, Skywalk 3687."
+        intervals [990]:
+            xmin = 5563.64
+            xmax = 5571.64
+            text = "[Silence]"
+        intervals [991]:
+            xmin = 5571.64
+            xmax = 5588.64
+            text = "All right, ma'am, we're landing 26R, departing 26L."
+        intervals [992]:
+            xmin = 5588.64
+            xmax = 5589.64
+            text = "We're in a normal split now."
+        intervals [993]:
+            xmin = 5589.64
+            xmax = 5591.64
+            text = "Traffic 2325, 1559."
+        intervals [994]:
+            xmin = 5591.64
+            xmax = 5593.64
+            text = "Both cleared to land on the right side."
+        intervals [995]:
+            xmin = 5593.64
+            xmax = 5595.64
+            text = "At the very end, it's 1375."
+        intervals [996]:
+            xmin = 5595.64
+            xmax = 5598.64
+            text = "Headed off to Impasse, into slots 2952."
+        intervals [997]:
+            xmin = 5598.64
+            xmax = 5599.64
+            text = "Can roll in whatever."
+        intervals [998]:
+            xmin = 5599.64
+            xmax = 5601.64
+            text = "And that's all that you have at the moment."
+        intervals [999]:
+            xmin = 5601.64
+            xmax = 5602.64
+            text = "Got it."
+        intervals [1000]:
+            xmin = 5602.64
+            xmax = 5605.64
+            text = "[Silence]"
+        intervals [1001]:
+            xmin = 5605.64
+            xmax = 5609.64
+            text = "Delta 2952, Arnav to Impasse, runway 26L, cleared for takeoff."
+        intervals [1002]:
+            xmin = 5609.64
+            xmax = 5612.64
+            text = "Arnav to Impasse, cleared for takeoff, 26L, Delta 2952."
+        intervals [1003]:
+            xmin = 5612.64
+            xmax = 5615.64
+            text = "Delta 432, lineup in line, runway 26L, lineup away."
+        intervals [1004]:
+            xmin = 5615.64
+            xmax = 5617.64
+            text = "26L, lineup away, Delta 432."
+        intervals [1005]:
+            xmin = 5617.64
+            xmax = 5619.64
+            text = "Delta 1375, contact departure, good day."
+        intervals [1006]:
+            xmin = 5619.64
+            xmax = 5620.64
+            text = "Good day."
+        intervals [1007]:
+            xmin = 5620.64
+            xmax = 5629.64
+            text = "[Silence]"
+        intervals [1008]:
+            xmin = 5629.64
+            xmax = 5641.64
+            text = "Delta 2325, taxi Victor Loop, good day."
+        intervals [1009]:
+            xmin = 5641.64
+            xmax = 5644.64
+            text = "Taxi Victor Loop, Delta 2325, good day."
+        intervals [1010]:
+            xmin = 5644.64
+            xmax = 5647.64
+            text = "[Silence]"
+        intervals [1011]:
+            xmin = 5647.64
+            xmax = 5650.639999999999
+            text = "Landing tower 049, 77, inbound 26R."
+        intervals [1012]:
+            xmin = 5650.639999999999
+            xmax = 5655.639999999999
+            text = "Landing tower 049, 77, onto tower 1060, at 6, runway 26R, cleared to land."
+        intervals [1013]:
+            xmin = 5655.639999999999
+            xmax = 5658.639999999999
+            text = "26R, cleared to land, number 4950."
+        intervals [1014]:
+            xmin = 5658.639999999999
+            xmax = 5679.639999999999
+            text = "[Silence]"
+        intervals [1015]:
+            xmin = 5679.639999999999
+            xmax = 5682.639999999999
+            text = "Delta 432, Arnav to Impasse, runway 26L, cleared for takeoff."
+        intervals [1016]:
+            xmin = 5682.639999999999
+            xmax = 5684.639999999999
+            text = "Arnav to Impasse, 26L, cleared for takeoff, Delta 432."
+        intervals [1017]:
+            xmin = 5684.639999999999
+            xmax = 5686.639999999999
+            text = "Towering 1081, lot of time, runway 26L, lineup away."
+        intervals [1018]:
+            xmin = 5686.639999999999
+            xmax = 5689.639999999999
+            text = "lineup away, 26L, towering 1081."
+        intervals [1019]:
+            xmin = 5689.639999999999
+            xmax = 5697.639999999999
+            text = "[Silence]"
+        intervals [1020]:
+            xmin = 5697.639999999999
+            xmax = 5699.639999999999
+            text = "Delta 2952, contact departure, good day."
+        intervals [1021]:
+            xmin = 5699.639999999999
+            xmax = 5701.639999999999
+            text = "Delta 2952, take care."
+        intervals [1022]:
+            xmin = 5701.639999999999
+            xmax = 5715.639999999999
+            text = "[Silence]"
+        intervals [1023]:
+            xmin = 5715.639999999999
+            xmax = 5719.639999999999
+            text = "South 1559, taxi Victor Loop, good day."
+        intervals [1024]:
+            xmin = 5719.639999999999
+            xmax = 5721.639999999999
+            text = "Good day."
+        intervals [1025]:
+            xmin = 5721.639999999999
+            xmax = 5725.639999999999
+            text = "Clear wings 635, 8K."
+        intervals [1026]:
+            xmin = 5725.639999999999
+            xmax = 5729.639999999999
+            text = "Clearing 635, line to tower 10506, runway 26R, cleared to land."
+        intervals [1027]:
+            xmin = 5729.639999999999
+            xmax = 5732.639999999999
+            text = "Cleared to land, 26R, cleared to 635."
+        intervals [1028]:
+            xmin = 5732.639999999999
+            xmax = 5744.639999999999
+            text = "[Silence]"
+        intervals [1029]:
+            xmin = 5744.639999999999
+            xmax = 5749.639999999999
+            text = "Cleared for takeoff, 26L, Arnav to Impasse, clear for takeoff."
+        intervals [1030]:
+            xmin = 5749.639999999999
+            xmax = 5753.639999999999
+            text = "Cleared for takeoff, 26L, Arnav to Impasse, clear for takeoff, 1081."
+        intervals [1031]:
+            xmin = 5753.639999999999
+            xmax = 5757.639999999999
+            text = "Delta 2475, lot of time, runway 26L, lineup away, 10506."
+        intervals [1032]:
+            xmin = 5757.639999999999
+            xmax = 5761.639999999999
+            text = "26L, lineup away, Delta 2475."
+        intervals [1033]:
+            xmin = 5761.639999999999
+            xmax = 5763.639999999999
+            text = "Delta 432, contact departure, good day."
+        intervals [1034]:
+            xmin = 5763.639999999999
+            xmax = 5765.639999999999
+            text = "Contact departure, Delta 432, good day."
+        intervals [1035]:
+            xmin = 5765.639999999999
+            xmax = 5774.639999999999
+            text = "[Silence]"
+        intervals [1036]:
+            xmin = 5774.639999999999
+            xmax = 5778.639999999999
+            text = "Cleared for takeoff, 26L, runway 26R, cleared to land."
+        intervals [1037]:
+            xmin = 5778.639999999999
+            xmax = 5782.639999999999
+            text = "Cleared for takeoff, 26L, runway 26R, cleared to land."
+        intervals [1038]:
+            xmin = 5782.639999999999
+            xmax = 5786.639999999999
+            text = "Cleared for takeoff, 26L, runway 26R, cleared to land."
+        intervals [1039]:
+            xmin = 5786.639999999999
+            xmax = 5790.639999999999
+            text = "Cleared for takeoff, 26L, runway 26R, cleared to land."
+        intervals [1040]:
+            xmin = 5790.639999999999
+            xmax = 5794.639999999999
+            text = "Cleared for takeoff, 26L, runway 26R, cleared to land."
+        intervals [1041]:
+            xmin = 5794.639999999999
+            xmax = 5798.639999999999
+            text = "Cleared for takeoff, 26L, runway 26R, cleared to land."
+        intervals [1042]:
+            xmin = 5798.639999999999
+            xmax = 5802.639999999999
+            text = "Cleared for takeoff, 26L, runway 26R, cleared to land."
+        intervals [1043]:
+            xmin = 5802.639999999999
+            xmax = 5803.639999999999
+            text = "[Silence]"
+        intervals [1044]:
+            xmin = 5803.639999999999
+            xmax = 5807.639999999999
+            text = "Tower, Merchant 2431, approaching H.A."
+        intervals [1045]:
+            xmin = 5807.639999999999
+            xmax = 5811.639999999999
+            text = "Tower, Merchant 2431, a lot of tower, 10606, runway 26R, cleared to land."
+        intervals [1046]:
+            xmin = 5811.639999999999
+            xmax = 5813.639999999999
+            text = "Cleared to land."
+        intervals [1047]:
+            xmin = 5813.639999999999
+            xmax = 5820.639999999999
+            text = "[Silence]"
+        intervals [1048]:
+            xmin = 5820.639999999999
+            xmax = 5824.639999999999
+            text = "Delta 4977, taxi VDE, Victor Luke, good day."
+        intervals [1049]:
+            xmin = 5824.639999999999
+            xmax = 5826.639999999999
+            text = "Victor Luke, good day, Delta 4977."
+        intervals [1050]:
+            xmin = 5826.639999999999
+            xmax = 5830.639999999999
+            text = "Delta 2475, Arnav to Impasse, runway 26L, cleared for takeoff."
+        intervals [1051]:
+            xmin = 5830.639999999999
+            xmax = 5834.639999999999
+            text = "Arnav to Impasse, cleared for takeoff, 26L, Delta 2475."
+        intervals [1052]:
+            xmin = 5834.639999999999
+            xmax = 5838.639999999999
+            text = "Arnav to Impasse, runway 26L, cleared for takeoff, 26L, cleared to land."
+        intervals [1053]:
+            xmin = 5838.639999999999
+            xmax = 5842.639999999999
+            text = "Delta 904, runway 26L, runway 26L, cleared to land."
+        intervals [1054]:
+            xmin = 5842.639999999999
+            xmax = 5846.639999999999
+            text = "Cleared for takeoff, 26L, runway 26L, cleared to land."
+        intervals [1055]:
+            xmin = 5846.639999999999
+            xmax = 5848.639999999999
+            text = "No idea what that means."
+        intervals [1056]:
+            xmin = 5848.639999999999
+            xmax = 5850.639999999999
+            text = "Please, welcome to your first release on the West-East route."
+        intervals [1057]:
+            xmin = 5850.639999999999
+            xmax = 5852.639999999999
+            text = "Thank you."
+        intervals [1058]:
+            xmin = 5852.639999999999
+            xmax = 5860.639999999999
+            text = "[Silence]"
+        intervals [1059]:
+            xmin = 5860.639999999999
+            xmax = 5862.639999999999
+            text = "Thank you."
+        intervals [1060]:
+            xmin = 5862.639999999999
+            xmax = 5866.639999999999
+            text = "[Silence]"
+        intervals [1061]:
+            xmin = 5866.639999999999
+            xmax = 5869.639999999999
+            text = "Delta 904, Arnav to Snuffy, runway 26L, cleared for takeoff."
+        intervals [1062]:
+            xmin = 5869.639999999999
+            xmax = 5873.639999999999
+            text = "Cleared for takeoff, 26L, Arnav to Snuffy, Delta 904."
+        intervals [1063]:
+            xmin = 5873.639999999999
+            xmax = 5878.639999999999
+            text = "Arnav to Snuffy, runway 26L, runway 26L, cleared for takeoff, 26L, runway 26L, cleared to land."
+        intervals [1064]:
+            xmin = 5878.639999999999
+            xmax = 5882.639999999999
+            text = "26L, long the way, Arnav to Snuffy, runway 26L, cleared for takeoff."
+        intervals [1065]:
+            xmin = 5882.639999999999
+            xmax = 5890.639999999999
+            text = "[Silence]"
+        intervals [1066]:
+            xmin = 5890.639999999999
+            xmax = 5894.639999999999
+            text = "Spurwing 635, taxi Bravo to Victor, ground point 9, around Victor."
+        intervals [1067]:
+            xmin = 5894.639999999999
+            xmax = 5899.639999999999
+            text = "Bravo, Victor, ground and over to ground, on Victor, Spurwing 635."
+        intervals [1068]:
+            xmin = 5899.639999999999
+            xmax = 5902.639999999999
+            text = "[Silence]"
+        intervals [1069]:
+            xmin = 5902.639999999999
+            xmax = 5905.639999999999
+            text = "That's our Delta 2468, AT."
+        intervals [1070]:
+            xmin = 5905.639999999999
+            xmax = 5909.639999999999
+            text = "Delta 2468, land at tower 10605, runway 26R, cleared to land."
+        intervals [1071]:
+            xmin = 5909.639999999999
+            xmax = 5911.639999999999
+            text = "Delta 2468, cleared to land, 26R."
+        intervals [1072]:
+            xmin = 5911.639999999999
+            xmax = 5913.639999999999
+            text = "Delta 2475, contact departure, good day."
+        intervals [1073]:
+            xmin = 5913.639999999999
+            xmax = 5918.639999999999
+            text = "To departure, Delta 26L, cleared to land, cleared to land, cleared to land, cleared to land, cleared to land, cleared to land."
+        intervals [1074]:
+            xmin = 5918.639999999999
+            xmax = 5919.639999999999
+            text = "[Silence]"
+        intervals [1075]:
+            xmin = 5919.639999999999
+            xmax = 5922.639999999999
+            text = "To departure, Delta 2475, excellent."
+        intervals [1076]:
+            xmin = 5922.639999999999
+            xmax = 5950.639999999999
+            text = "Delta 2594, it's coming up on AT, 26R."
+        intervals [1077]:
+            xmin = 5950.639999999999
+            xmax = 5954.639999999999
+            text = "Southwest Main is 8610, Charlie, cross runway 26R, hold short of runway 26L."
+        intervals [1078]:
+            xmin = 5954.639999999999
+            xmax = 5958.639999999999
+            text = "Cross 26R, hold short of 26L, Southwest Main is 8610."
+        intervals [1079]:
+            xmin = 5958.639999999999
+            xmax = 5962.639999999999
+            text = "Delta 2594, land at tower 10604, runway 26R, cleared to land."
+        intervals [1080]:
+            xmin = 5962.639999999999
+            xmax = 5964.639999999999
+            text = "Cleared to land, 26R, hold short of runway 26L."
+        intervals [1081]:
+            xmin = 5964.639999999999
+            xmax = 5966.639999999999
+            text = "[Silence]"
+        intervals [1082]:
+            xmin = 5966.639999999999
+            xmax = 5969.639999999999
+            text = "America 2431, taxi Bravo to Victor, ground point 9, around Victor."
+        intervals [1083]:
+            xmin = 5969.639999999999
+            xmax = 5972.639999999999
+            text = "Bravo to Victor, ground point 9, over to Victor, over to Southwest Main, 2431."
+        intervals [1084]:
+            xmin = 5972.639999999999
+            xmax = 5976.639999999999
+            text = "Southwest Main is 8610, traffic holding, cross runway 26L, right on Echo, ground point 9."
+        intervals [1085]:
+            xmin = 5976.639999999999
+            xmax = 5980.639999999999
+            text = "Cross runway 26L, right on Echo, ground point 9, Southwest Main is 8610."
+        intervals [1086]:
+            xmin = 5980.639999999999
+            xmax = 5982.639999999999
+            text = "Delta 904, contact Portugal 8."
+        intervals [1087]:
+            xmin = 5982.639999999999
+            xmax = 5984.639999999999
+            text = "Portugal 8, Delta 904."
+        intervals [1088]:
+            xmin = 5984.639999999999
+            xmax = 6006.639999999999
+            text = "[Silence]"
+        intervals [1089]:
+            xmin = 6006.639999999999
+            xmax = 6019.639999999999
+            text = "Runway 491, turn right, heading 340, runway 26L, cleared for takeoff."
+        intervals [1090]:
+            xmin = 6019.639999999999
+            xmax = 6023.639999999999
+            text = "26L, cleared for takeoff, turn right, heading 340, runway 491."
+        intervals [1091]:
+            xmin = 6023.639999999999
+            xmax = 6026.639999999999
+            text = "2543, land at tower, runway 26L, line up and wait."
+        intervals [1092]:
+            xmin = 6026.639999999999
+            xmax = 6029.639999999999
+            text = "Delta 2593, line up and wait, 26L."
+        intervals [1093]:
+            xmin = 6029.639999999999
+            xmax = 6036.639999999999
+            text = "[Silence]"
+        intervals [1094]:
+            xmin = 6036.639999999999
+            xmax = 6044.639999999999
+            text = "Tower, Skywars 4179, 26R."
+        intervals [1095]:
+            xmin = 6044.639999999999
+            xmax = 6052.639999999999
+            text = "Skywars 4179, land at tower 10605, runway 26R, cleared to land."
+        intervals [1096]:
+            xmin = 6052.639999999999
+            xmax = 6055.639999999999
+            text = "We are cleared to land, 26R, Skywars 4179."
+        intervals [1097]:
+            xmin = 6055.639999999999
+            xmax = 6064.639999999999
+            text = "Delta 2468, taxi, cleared to leave, good day."
+        intervals [1098]:
+            xmin = 6064.639999999999
+            xmax = 6066.639999999999
+            text = "Cleared to leave, good day, Delta 2468."
+        intervals [1099]:
+            xmin = 6066.639999999999
+            xmax = 6070.639999999999
+            text = "2543, traffic ahead, we'll turn northbound, RNAV M-Pass, runway 26L, thanks for takeoff."
+        intervals [1100]:
+            xmin = 6070.639999999999
+            xmax = 6073.639999999999
+            text = "RNAV M-Pass, 26L, cleared for takeoff, Delta 2543."
+        intervals [1101]:
+            xmin = 6073.639999999999
+            xmax = 6076.639999999999
+            text = "Delta 961, land at tower, runway 26L, on the way."
+        intervals [1102]:
+            xmin = 6076.639999999999
+            xmax = 6078.639999999999
+            text = "On the way, 26L, runway 26L."
+        intervals [1103]:
+            xmin = 6078.639999999999
+            xmax = 6085.639999999999
+            text = "[Silence]"
+        intervals [1104]:
+            xmin = 6085.639999999999
+            xmax = 6112.639999999999
+            text = "Delta 961, runway 26L, cleared for takeoff."
+        intervals [1105]:
+            xmin = 6112.639999999999
+            xmax = 6115.639999999999
+            text = "On the way, 26L, runway 26L, cleared for takeoff."
+        intervals [1106]:
+            xmin = 6115.639999999999
+            xmax = 6119.639999999999
+            text = "On the way, 26L, cleared for takeoff, Delta 961."
+        intervals [1107]:
+            xmin = 6119.639999999999
+            xmax = 6123.639999999999
+            text = "On the way, 26L, runway 26L, cleared for takeoff, Delta 26L."
+        intervals [1108]:
+            xmin = 6123.639999999999
+            xmax = 6126.639999999999
+            text = "On the way, 26L, runway 26L, cleared for takeoff."
+        intervals [1109]:
+            xmin = 6126.639999999999
+            xmax = 6132.639999999999
+            text = "26L, cleared to land, Delta 410."
+        intervals [1110]:
+            xmin = 6132.639999999999
+            xmax = 6134.639999999999
+            text = "Delta 2594, taxi via the VIX, good day."
+        intervals [1111]:
+            xmin = 6134.639999999999
+            xmax = 6141.639999999999
+            text = "VIX, 2594, good day."
+        intervals [1112]:
+            xmin = 6141.639999999999
+            xmax = 6143.639999999999
+            text = "Delta 2491, count that apart, have a good flight."
+        intervals [1113]:
+            xmin = 6143.639999999999
+            xmax = 6145.639999999999
+            text = "Count that apart, have a good flight."
+        intervals [1114]:
+            xmin = 6145.639999999999
+            xmax = 6148.639999999999
+            text = "Delta 2543, count that apart, have a good flight."
+        intervals [1115]:
+            xmin = 6148.639999999999
+            xmax = 6150.639999999999
+            text = "2543, search."
+        intervals [1116]:
+            xmin = 6150.639999999999
+            xmax = 6171.639999999999
+            text = "[Silence]"
+        intervals [1117]:
+            xmin = 6171.639999999999
+            xmax = 6199.639999999999
+            text = "Delta 2548, OK."
+        intervals [1118]:
+            xmin = 6199.639999999999
+            xmax = 6203.639999999999
+            text = "Delta 2040, at line of tower, wind 0505, runway 26R, cleared to land."
+        intervals [1119]:
+            xmin = 6203.639999999999
+            xmax = 6207.639999999999
+            text = "Roger, 26R, Delta 24."
+        intervals [1120]:
+            xmin = 6207.639999999999
+            xmax = 6209.639999999999
+            text = "Delta 961, count that apart, good day."
+        intervals [1121]:
+            xmin = 6209.639999999999
+            xmax = 6224.639999999999
+            text = "Count that apart, good day."
+        intervals [1122]:
+            xmin = 6224.639999999999
+            xmax = 6228.639999999999
+            text = "Scouts 4179, Bravo to VIX, ground 0.9, good day."
+        intervals [1123]:
+            xmin = 6228.639999999999
+            xmax = 6231.639999999999
+            text = "Bravo to VIX, ground 0.9, Scouts 4179."
+        intervals [1124]:
+            xmin = 6231.639999999999
+            xmax = 6234.639999999999
+            text = "Delta 2288, LAT, 26L, LAT, wait."
+        intervals [1125]:
+            xmin = 6234.639999999999
+            xmax = 6238.639999999999
+            text = "LAT, 26L, Delta 2288."
+        intervals [1126]:
+            xmin = 6238.639999999999
+            xmax = 6254.639999999999
+            text = "[Silence]"
+        intervals [1127]:
+            xmin = 6254.639999999999
+            xmax = 6267.639999999999
+            text = "Delta 2288, wind 0605, RNAV, IMPASS, runway 26L, cleared for takeoff."
+        intervals [1128]:
+            xmin = 6267.639999999999
+            xmax = 6273.639999999999
+            text = "Runway 0605, RNAV, IMPASS, cleared for takeoff, 26L, Delta 2288."
+        intervals [1129]:
+            xmin = 6273.639999999999
+            xmax = 6279.639999999999
+            text = "Tower, good morning, Delta 2647, AJA for 26R."
+        intervals [1130]:
+            xmin = 6279.639999999999
+            xmax = 6280.639999999999
+            text = "[Silence]"
+        intervals [1131]:
+            xmin = 6280.639999999999
+            xmax = 6286.639999999999
+            text = "Delta 2647, LAT, wind 0606, runway 26R, cleared to land."
+        intervals [1132]:
+            xmin = 6286.639999999999
+            xmax = 6289.639999999999
+            text = "Cleared to land, runway 26R, Delta 2647."
+        intervals [1133]:
+            xmin = 6289.639999999999
+            xmax = 6291.639999999999
+            text = "Delta 410, taxi via the Victor Loop."
+        intervals [1134]:
+            xmin = 6291.639999999999
+            xmax = 6295.639999999999
+            text = "Victor Loop, Delta 410."
+        intervals [1135]:
+            xmin = 6295.639999999999
+            xmax = 6309.639999999999
+            text = "[Silence]"
+        intervals [1136]:
+            xmin = 6309.639999999999
+            xmax = 6311.639999999999
+            text = "Thank you for watching."
+        intervals [1137]:
+            xmin = 6311.639999999999
+            xmax = 6339.639999999999
+            text = "[Silence]"
+        intervals [1138]:
+            xmin = 6339.639999999999
+            xmax = 6354.639999999999
+            text = "Delta 2288, count that apart, good day."
+        intervals [1139]:
+            xmin = 6354.639999999999
+            xmax = 6356.639999999999
+            text = "That apart, good day, Delta 2288."
+        intervals [1140]:
+            xmin = 6356.639999999999
+            xmax = 6363.639999999999
+            text = "[Silence]"
+        intervals [1141]:
+            xmin = 6363.639999999999
+            xmax = 6365.639999999999
+            text = "Delta 2040, taxi via the Victor Loop, good day."
+        intervals [1142]:
+            xmin = 6365.639999999999
+            xmax = 6367.639999999999
+            text = "Delta 2040."
+        intervals [1143]:
+            xmin = 6367.639999999999
+            xmax = 6396.639999999999
+            text = "[Silence]"
+        intervals [1144]:
+            xmin = 6396.639999999999
+            xmax = 6402.639999999999
+            text = "Tower, LAT 2642, version AJA, visual 26R."
+        intervals [1145]:
+            xmin = 6402.639999999999
+            xmax = 6406.639999999999
+            text = "United 2642, LAT, wind 0605, runway 26R, cleared to land."
+        intervals [1146]:
+            xmin = 6406.639999999999
+            xmax = 6410.639999999999
+            text = "Cleared to land, 26R, LAT 2642."
+        intervals [1147]:
+            xmin = 6410.639999999999
+            xmax = 6426.639999999999
+            text = "[Silence]"
+        intervals [1148]:
+            xmin = 6426.639999999999
+            xmax = 6430.639999999999
+            text = "Delta 2642, taxi via the Victor Loop, good day."
+        intervals [1149]:
+            xmin = 6430.639999999999
+            xmax = 6434.639999999999
+            text = "Victor Loop, Delta 2647, good day."
+        intervals [1150]:
+            xmin = 6434.639999999999
+            xmax = 6457.639999999999
+            text = "Tug 8, Tug 8, cross runway 26R, join Victor behind the 7-3, then ground, I'll point on."
+        intervals [1151]:
+            xmin = 6457.639999999999
+            xmax = 6465.639999999999
+            text = "All right, cross 26R, behind the 7-3, Victor, Tug 8."
+        intervals [1152]:
+            xmin = 6465.639999999999
+            xmax = 6468.639999999999
+            text = "Tug 8, ground point 9 when you're on Victor."
+        intervals [1153]:
+            xmin = 6468.639999999999
+            xmax = 6471.639999999999
+            text = "Ground point 9, Tug 8."
+        intervals [1154]:
+            xmin = 6471.639999999999
+            xmax = 6487.639999999999
+            text = "[Silence]"
+        intervals [1155]:
+            xmin = 6487.639999999999
+            xmax = 6490.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1156]:
+            xmin = 6490.639999999999
+            xmax = 6493.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1157]:
+            xmin = 6493.639999999999
+            xmax = 6496.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1158]:
+            xmin = 6496.639999999999
+            xmax = 6499.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1159]:
+            xmin = 6499.639999999999
+            xmax = 6502.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1160]:
+            xmin = 6502.639999999999
+            xmax = 6505.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1161]:
+            xmin = 6505.639999999999
+            xmax = 6508.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1162]:
+            xmin = 6508.639999999999
+            xmax = 6511.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1163]:
+            xmin = 6511.639999999999
+            xmax = 6514.639999999999
+            text = "Tug 8, ground point 9."
+        intervals [1164]:
+            xmin = 6514.639999999999
+            xmax = 6517.639999999999
+            text = "Tug 8."
+        intervals [1165]:
+            xmin = 6517.639999999999
+            xmax = 6544.639999999999
+            text = "[Silence]"
+        intervals [1166]:
+            xmin = 6544.639999999999
+            xmax = 6557.639999999999
+            text = "America 1283, AJ, 26R."
+        intervals [1167]:
+            xmin = 6557.639999999999
+            xmax = 6561.639999999999
+            text = "America 1283, line of tower 10306, runway 26R, cleared to land."
+        intervals [1168]:
+            xmin = 6561.639999999999
+            xmax = 6565.639999999999
+            text = "Cleared to land, 26R, line of tower 1283."
+        intervals [1169]:
+            xmin = 6565.639999999999
+            xmax = 6574.639999999999
+            text = "[Silence]"
+        intervals [1170]:
+            xmin = 6574.639999999999
+            xmax = 6593.639999999999
+            text = "South 29, 24, line of tower, runway 26L, final runway 10306."
+        intervals [1171]:
+            xmin = 6593.639999999999
+            xmax = 6604.639999999999
+            text = "Line up and wait, 26L, southwest 29, 24."
+        intervals [1172]:
+            xmin = 6604.639999999999
+            xmax = 6607.639999999999
+            text = "United 2642, Bravo to Victor, ground point 9, or get in."
+        intervals [1173]:
+            xmin = 6607.639999999999
+            xmax = 6609.639999999999
+            text = "Bravo to Victor, over to ground, 26R, 26."
+        intervals [1174]:
+            xmin = 6609.639999999999
+            xmax = 6612.639999999999
+            text = "South 29, 24, and have to end pass, runway 26L, takeoff."
+        intervals [1175]:
+            xmin = 6612.639999999999
+            xmax = 6616.639999999999
+            text = "Takeoff 26L, RNAV to end pass, southwest 29, 24."
+        intervals [1176]:
+            xmin = 6616.639999999999
+            xmax = 6617.639999999999
+            text = "[Silence]"
+        intervals [1177]:
+            xmin = 6617.639999999999
+            xmax = 6624.639999999999
+            text = "N2681, runway 26L, line up and wait. Departures on, actually, your 10306."
+        intervals [1178]:
+            xmin = 6624.639999999999
+            xmax = 6627.639999999999
+            text = "Alright, 26L, line up and wait, double 2681."
+        intervals [1179]:
+            xmin = 6627.639999999999
+            xmax = 6646.639999999999
+            text = "[Silence]"
+        intervals [1180]:
+            xmin = 6646.639999999999
+            xmax = 6666.639999999999
+            text = "Tower, United, 20L, 20L is visual, 5 miles off the runway."
+        intervals [1181]:
+            xmin = 6666.639999999999
+            xmax = 6671.639999999999
+            text = "United 2008, line of tower 10305, runway 26R, cleared to land."
+        intervals [1182]:
+            xmin = 6671.639999999999
+            xmax = 6674.639999999999
+            text = "26R, cleared to land, 20L."
+        intervals [1183]:
+            xmin = 6674.639999999999
+            xmax = 6676.639999999999
+            text = "[Silence]"
+        intervals [1184]:
+            xmin = 6676.639999999999
+            xmax = 6678.639999999999
+            text = "Thank you for watching."
+        intervals [1185]:
+            xmin = 6678.639999999999
+            xmax = 6706.639999999999
+            text = "[Silence]"
+        intervals [1186]:
+            xmin = 6706.639999999999
+            xmax = 6714.639999999999
+            text = "Delta 2681, RNAV to end pass, runway 26L, cleared for takeoff."
+        intervals [1187]:
+            xmin = 6714.639999999999
+            xmax = 6718.639999999999
+            text = "RNAV to end pass, cleared for takeoff, 26L, Delta 2681."
+        intervals [1188]:
+            xmin = 6718.639999999999
+            xmax = 6721.639999999999
+            text = "American 1283, Bravo to Victor, ground point 9, or get in."
+        intervals [1189]:
+            xmin = 6721.639999999999
+            xmax = 6724.639999999999
+            text = "Bravo to Victor, ground point 9, American 1283."
+        intervals [1190]:
+            xmin = 6724.639999999999
+            xmax = 6726.639999999999
+            text = "South 29, 24, contact a departure, get in."
+        intervals [1191]:
+            xmin = 6726.639999999999
+            xmax = 6729.639999999999
+            text = "Contact a departure, 29, 24C."
+        intervals [1192]:
+            xmin = 6729.639999999999
+            xmax = 6736.639999999999
+            text = "[Silence]"
+        intervals [1193]:
+            xmin = 6736.639999999999
+            xmax = 6765.639999999999
+            text = "United 1850, runway 26L, line up and wait, the winds are 0206."
+        intervals [1194]:
+            xmin = 6765.639999999999
+            xmax = 6767.639999999999
+            text = "runway 26L, United 1850."
+        intervals [1195]:
+            xmin = 6767.639999999999
+            xmax = 6773.639999999999
+            text = "Delta 2186, line of tower 10206, runway 26R, cleared to land."
+        intervals [1196]:
+            xmin = 6773.639999999999
+            xmax = 6781.639999999999
+            text = "Cleared to land, Delta 2186."
+        intervals [1197]:
+            xmin = 6781.639999999999
+            xmax = 6789.639999999999
+            text = "Bravo Golf, departure tango, the Atlanta diameter is 3012."
+        intervals [1198]:
+            xmin = 6789.639999999999
+            xmax = 6793.639999999999
+            text = "United 1850, RNAV to snuffy, runway 26L, cleared for takeoff."
+        intervals [1199]:
+            xmin = 6793.639999999999
+            xmax = 6797.639999999999
+            text = "runway 26L, cleared for takeoff, 26L."
+        intervals [1200]:
+            xmin = 6797.639999999999
+            xmax = 6799.639999999999
+            text = "Delta 2681, contact a departure, get in."
+        intervals [1201]:
+            xmin = 6799.639999999999
+            xmax = 6812.639999999999
+            text = "OK, yes, Delta 2681."
+        intervals [1202]:
+            xmin = 6812.639999999999
+            xmax = 6815.639999999999
+            text = "United 28XE, Bravo to Victor, ground point 9, or get in."
+        intervals [1203]:
+            xmin = 6815.639999999999
+            xmax = 6817.639999999999
+            text = "Bravo to Victor, ground point 9, 28XE."
+        intervals [1204]:
+            xmin = 6817.639999999999
+            xmax = 6831.639999999999
+            text = "Delta 1850, runway 26L, line up and wait, the winds are 0206."
+        intervals [1205]:
+            xmin = 6831.639999999999
+            xmax = 6845.639999999999
+            text = "Line up and wait, 26L, Delta 1850."
+        intervals [1206]:
+            xmin = 6845.639999999999
+            xmax = 6846.639999999999
+            text = "[Silence]"
+        intervals [1207]:
+            xmin = 6846.639999999999
+            xmax = 6848.639999999999
+            text = "Delta 2132, visual 26R."
+        intervals [1208]:
+            xmin = 6848.639999999999
+            xmax = 6852.639999999999
+            text = "Delta 2132, Atlanta tower 10206, runway 26R, cleared to land."
+        intervals [1209]:
+            xmin = 6852.639999999999
+            xmax = 6855.639999999999
+            text = "26R, cleared to land, Delta 2132."
+        intervals [1210]:
+            xmin = 6855.639999999999
+            xmax = 6875.639999999999
+            text = "[Silence]"
+        intervals [1211]:
+            xmin = 6875.639999999999
+            xmax = 6900.639999999999
+            text = "United 1850, contact a departure, get in."
+        intervals [1212]:
+            xmin = 6900.639999999999
+            xmax = 6901.639999999999
+            text = "[Silence]"
+        intervals [1213]:
+            xmin = 6901.639999999999
+            xmax = 6907.639999999999
+            text = "Delta 1850, RNAV to snuffy, runway 26L, cleared for takeoff."
+        intervals [1214]:
+            xmin = 6907.639999999999
+            xmax = 6910.639999999999
+            text = "RNAV to snuffy, cleared for takeoff, 26L, Delta 1850."
+        intervals [1215]:
+            xmin = 6910.639999999999
+            xmax = 6913.639999999999
+            text = "Delta 2186, activity to Victor, good day."
+        intervals [1216]:
+            xmin = 6913.639999999999
+            xmax = 6915.639999999999
+            text = "Victor lift, 2186, good day."
+        intervals [1217]:
+            xmin = 6915.639999999999
+            xmax = 6917.639999999999
+            text = "Tower, Delta 1862, we're reaching."
+        intervals [1218]:
+            xmin = 6917.639999999999
+            xmax = 6921.639999999999
+            text = "Delta 1862, Atlanta tower wind 0207, runway 26R, cleared to land."
+        intervals [1219]:
+            xmin = 6921.639999999999
+            xmax = 6925.639999999999
+            text = "Cleared to land, Delta 1862."
+        intervals [1220]:
+            xmin = 6925.639999999999
+            xmax = 6930.639999999999
+            text = "[Silence]"
+        intervals [1221]:
+            xmin = 6930.639999999999
+            xmax = 6932.639999999999
+            text = "Thank you for watching."
+        intervals [1222]:
+            xmin = 6932.639999999999
+            xmax = 6960.639999999999
+            text = "[Silence]"
+        intervals [1223]:
+            xmin = 6960.639999999999
+            xmax = 6988.639999999999
+            text = "Delta 2132, taxi VD Victor, good day."
+        intervals [1224]:
+            xmin = 6988.639999999999
+            xmax = 6991.639999999999
+            text = "Victor lift, Delta 2132, how go?"
+        intervals [1225]:
+            xmin = 6991.639999999999
+            xmax = 6993.639999999999
+            text = "Delta 1815, contact a departure, good day."
+        intervals [1226]:
+            xmin = 6993.639999999999
+            xmax = 7011.639999999999
+            text = "Delta 1815, so long."
+        intervals [1227]:
+            xmin = 7011.639999999999
+            xmax = 7016.639999999999
+            text = "Delta 99984, Atlanta tower, runway 26L, line up and wait, winds 0404."
+        intervals [1228]:
+            xmin = 7016.639999999999
+            xmax = 7020.639999999999
+            text = "Line up and wait on 26L, experiment on 9984."
+        intervals [1229]:
+            xmin = 7020.639999999999
+            xmax = 7028.639999999999
+            text = "[Silence]"
+        intervals [1230]:
+            xmin = 7028.639999999999
+            xmax = 7030.639999999999
+            text = "Tower, Delta 1367, AGA."
+        intervals [1231]:
+            xmin = 7030.639999999999
+            xmax = 7035.639999999999
+            text = "Delta 1367, Atlanta tower wind 0404, runway 26R, cleared to land."
+        intervals [1232]:
+            xmin = 7035.639999999999
+            xmax = 7038.639999999999
+            text = "Cleared to land, 26R, Delta 1367."
+        intervals [1233]:
+            xmin = 7038.639999999999
+            xmax = 7042.639999999999
+            text = "Delta 9984, onto snuffy, runway 26L, cleared for takeoff."
+        intervals [1234]:
+            xmin = 7042.639999999999
+            xmax = 7069.639999999999
+            text = "Snuffy, cleared for takeoff, 26L, experiment on 9984."
+        intervals [1235]:
+            xmin = 7069.639999999999
+            xmax = 7074.639999999999
+            text = "Delta 447, onto snuffy, runway 26L, line up and wait, departure, winds 0404."
+        intervals [1236]:
+            xmin = 7074.639999999999
+            xmax = 7078.639999999999
+            text = "Line up and wait, 26L, onto snuffy, runway 447."
+        intervals [1237]:
+            xmin = 7078.639999999999
+            xmax = 7081.639999999999
+            text = "Delta 1862, taxi VD Victor, good day."
+        intervals [1238]:
+            xmin = 7081.639999999999
+            xmax = 7084.639999999999
+            text = "Delta 1862, Victor lift."
+        intervals [1239]:
+            xmin = 7084.639999999999
+            xmax = 7099.639999999999
+            text = "[Silence]"
+        intervals [1240]:
+            xmin = 7099.639999999999
+            xmax = 7126.639999999999
+            text = "Good day."
+        intervals [1241]:
+            xmin = 7126.639999999999
+            xmax = 7133.639999999999
+            text = "South 447, onto snuffy, runway 26L, cleared for takeoff."
+        intervals [1242]:
+            xmin = 7133.639999999999
+            xmax = 7153.639999999999
+            text = "Cleared for takeoff, 26L, onto snuffy, south of 447."
+        intervals [1243]:
+            xmin = 7153.639999999999
+            xmax = 7158.639999999999
+            text = "Tower, SW3202, visual, 26R."
+        intervals [1244]:
+            xmin = 7158.639999999999
+            xmax = 7162.639999999999
+            text = "SW3202, Atlanta tower wind 0406, runway 26R, cleared to land."
+        intervals [1245]:
+            xmin = 7162.639999999999
+            xmax = 7165.639999999999
+            text = "SW3202, cleared to land, 26R."
+        intervals [1246]:
+            xmin = 7165.639999999999
+            xmax = 7168.639999999999
+            text = "Delta 9984, count out of park, just seen a bit."
+        intervals [1247]:
+            xmin = 7168.639999999999
+            xmax = 7173.639999999999
+            text = "Good day, Delta 994."
+        intervals [1248]:
+            xmin = 7173.639999999999
+            xmax = 7175.639999999999
+            text = "Tower, Tug 11."
+        intervals [1249]:
+            xmin = 7175.639999999999
+            xmax = 7176.639999999999
+            text = "Tug 11."
+        intervals [1250]:
+            xmin = 7176.639999999999
+            xmax = 7182.639999999999
+            text = "Just out of curiosity or for my own purposes, I'm on the south side, I was told 2532."
+        intervals [1251]:
+            xmin = 7182.639999999999
+            xmax = 7185.639999999999
+            text = "Is this supposed to be 2385?"
+        intervals [1252]:
+            xmin = 7185.639999999999
+            xmax = 7187.639999999999
+            text = "Where are you at, holding short?"
+        intervals [1253]:
+            xmin = 7187.639999999999
+            xmax = 7190.639999999999
+            text = "Holding short of 27R at Sierra."
+        intervals [1254]:
+            xmin = 7190.639999999999
+            xmax = 7191.639999999999
+            text = "Yeah, 12385."
+        intervals [1255]:
+            xmin = 7191.639999999999
+            xmax = 7193.639999999999
+            text = "Ah, I just wanted to make sure."

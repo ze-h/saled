@@ -1,0 +1,77 @@
+# This file determines the default format of labels in cue
+# and the format of our output files
+
+# data types (for human reference) :
+#     "str" = string
+#         default = ""
+#     "int" = integer
+#         default = 0
+#     "float" = float
+#         default = 0.0
+#     ["value", "other value"] = 'dropdown' (select 1 option from the array)
+#         default = first option (in this case "value")
+#     "list of str" = a list of any strings
+#         default = [] (empty array)
+
+# labels[0] will have ASR transcript.
+# It is always there, so no need to specify.
+
+# labels[1]: a dict for other text-based layers, including NLP and ATC.
+# The contents can grow as needed and hence must be specified.
+[text]
+nlp = "str"                              # String type.
+atc = "str"
+disp = "str"
+
+# labels[2]: a dict for conversation related info.
+# There are currently the following key-value pairs:
+[conv]
+# Alternative type when this is an array.
+# In implementation, this can be done by checking the size of conv_labels[x].type.
+# If the size of is > 1, we will need to match with the content of the table.
+utt = ["standalone", "bgn", "in", "end"]
+from = ["unknown", "pilot", "atc"]
+to = ["unknown", "pilot", "atc"]
+thread = "int"                               # Integer type
+
+# labels[3]: a dict for NER related work.
+[ner]
+atc = "str"
+callsign = "str"
+runway = "str"
+taxiway = "list of str"
+ramp = "str"
+location = "str"
+h_dire = "str"                    # Horizontal direction: left, right
+v_dire = "str"                    # Vertical direction: up, down
+freq = "float"
+value = "int"
+
+
+# labels[4]: a dict for the "intention" of the communication and the related "info".
+# The key will be the intention action.
+# The value will be the corresponding info
+[intn]
+"main intn" = ["readback", "report air loc", "report ground loc", "ask permission", "instruct taxi", "assign runway", "assign heading", "assign altitude"]  # Andy will summarize
+summary = "str"
+# Andy will summarize a list of topics for each of the above intentions. 
+
+# labels[5]: a dict for scores. 
+[score]
+# Record the number of pauses, including the filled pauses.
+# For unfiled pauses, count the number of pauses that are longer than, say, 0.5 seconds.
+"asr-nlp1" = "int"
+# Records the number of nonstandard phraseology (word level).
+# For example, if the standard phraseology is to say "fifteen" but "one five" was said, this will be recorded as one point.
+"asr-nlp2" = "int"
+# Record the number of conversational expressions (word level).
+"asr-nlp3" = "int"
+# Record the number of deviations from the standard ATC expressions.
+# For example, if the standard way is to say "climb and maintain 5000" and it was said "climb to 5000", this will be recorded as one point.
+"nlp-atc1" = "int"
+# Record the conciseness of getting the message across without having to strictly follow the standard ATC expressions.
+# One account of correct conciseness will be recorded as one point.
+"nlp-atc2" = "int"
+
+# labels[6]. TBD
+[other] # empty table like in the example

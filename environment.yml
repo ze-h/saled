@@ -1,0 +1,17 @@
+## conda config: env4pkg_proj.yml
+# The `name` becomes the Conda environment name
+name: pkg_ppb # ppb stands for pure Python version 11 (0xB)
+channels:
+  - conda-forge
+  # ref: https://stackoverflow.com/questions/70851048/does-it-make-sense-to-use-conda-poetry
+  # We want to have a reproducible setup, so we don't want default channels,
+  # which may be different for different users. All required channels should
+  # be listed explicitly here.
+  - nodefaults
+dependencies:
+  - tree
+  # === Python
+  - python=3.11.*
+  - pip # pip must be mentioned explicitly, or conda-lock will fail
+  - poetry # or 1.1.*, or no version at all -- as you want
+  - poetry-plugin-export # to export poetry.lock to requirements.txt

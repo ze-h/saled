@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "saled"
+version = "0.1.0"
+description = ""
+authors = [
+    "eraus <liu620@erau.edu>",
+    "Thomas Pasfield <pasfielt@my.erau.edu>",
+    "Luke Mauro <maurol@my.erau.edu>",
+    "Evan Karim <karime@my.erau.edu>",
+    "Ayse Okatan <okatana@my.erau.edu>"
+]
+readme = "README.md"
+packages = [{include = "saled", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "1.26.4"
+pydub = "^0.25.1"
+librosa = "^0.10.2.post1"
+dash = "^2.17.1"
+dash-bootstrap-components = "^1.6.0"
+dash-mantine-components = "^0.14.3"
+dash-iconify = "^0.1.2"
+pandas = "^2.2.2"
+
+[tool.poetry.scripts]
+saled = "saled.__main__:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
