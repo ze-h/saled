@@ -10,6 +10,7 @@ from librosa.feature import melspectrogram
 from librosa import power_to_db
 import numpy as np
 
+from pydub import audio_segment
 import saled.utils.audio as atool
 import saled.utils.fileIO as fio
 
@@ -35,6 +36,7 @@ def get_callbacks(app):
         if FILE is None:
             raise PreventUpdate
         sample_audio = atool.envelope_sample(fio.load_audio(FILE))
+        seg = sample_audio
         return sample_audio
 
     @callback(Output("global-waveform", "figure"), Input("sampled-audio", "data"))
@@ -204,3 +206,18 @@ def get_callbacks(app):
             f"{left_hours:02d}:{left_minutes:02d}:{left_seconds:02d}.{left_ms:03d}",
             f"{right_hours:02d}:{right_minutes:02d}:{right_seconds:02d}.{right_ms:03d}",
         )
+
+
+@callback(Input("file-selector", "value"), Input("play-button", "n_clicks"))
+def play_audio(file, n):
+    if n != None:
+        print("play", n, "recieved")
+        atool.play_audio(file)
+        
+
+@callback(Input("pause-button", "n_clicks"))
+def pause_audio(file, n):
+    if n != None:
+        print("play", n, "recieved")
+        atool.pause_audio()
+

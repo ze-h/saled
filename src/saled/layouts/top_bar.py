@@ -37,15 +37,17 @@ def set_contents(content):
                     ),
                     dmc.Group(
                         [
-                            dmc.ActionIcon(
+                            dmc.Button(
                                 DashIconify(icon="mingcute:play-fill"),
                                 size="lg",
                                 variant="outline",
+                                id="play-button",
                             ),
-                            dmc.ActionIcon(
+                            dmc.Button(
                                 DashIconify(icon="mingcute:pause-fill"),
                                 size="lg",
                                 variant="outline",
+                                id="pause-button"
                             ),
                             dmc.ActionIcon(
                                 DashIconify(icon="mingcute:skip-previous-fill"),
