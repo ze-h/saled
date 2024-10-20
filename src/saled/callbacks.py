@@ -10,7 +10,11 @@ from librosa.feature import melspectrogram
 from librosa import power_to_db
 import numpy as np
 
+import time
+
 from pydub import audio_segment
+from pydub import AudioSegment
+import simpleaudio as sa
 import saled.utils.audio as atool
 import saled.utils.fileIO as fio
 
@@ -206,6 +210,46 @@ def get_callbacks(app):
             f"{left_hours:02d}:{left_minutes:02d}:{left_seconds:02d}.{left_ms:03d}",
             f"{right_hours:02d}:{right_minutes:02d}:{right_seconds:02d}.{right_ms:03d}",
         )
+        
+@callback(
+    Output("timestamp","children"),
+    Input("global-waveform", "selectedData"),
+    Input("file-selector", "value")
+)
+def updateTimestamp(selection, sample_audio):
+    if not sample_audio:
+        raise PreventUpdate
+    
+    audio = AudioSegment.from_file(sample_audio)
+  
+    start = time.time()
+    if selection is not None and "range" in selection.keys():
+        left_bound = selection["range"]["x"][0] * 0.01
+    else:
+        left_bound = 0
+    
+    
+    current = time.strftime("%H:%M:%S", time.gmtime(time.time() % audio.duration_seconds))
+    audio_length = audio.duration_seconds
+    
+    left_ms = int(left_bound % 1 *1000)
+    left_seconds = int(left_bound % 60)
+    left_minutes = int((left_bound/60)%60)
+    left_hours = int((left_bound /3600)%60)
+    
+    
+    #this represents the right sde of the timestamp for audio play
+    right_ms = int(audio_length % 1 * 1000)
+    right_seconds = int(audio_length % 60)
+    right_minutes = int((audio_length / 60) % 60)
+    right_hours = int((audio_length / 3600) % 60)
+    
+    
+    return f"{left_hours:02d}:{left_minutes:02d}:{left_seconds:02d}:{left_ms:02d}/{right_hours:02d}:{right_minutes:02d}:{right_seconds:02d}.{right_ms:03d}",
+
+
+    
+
 
 
 @callback(Input("file-selector", "value"), Input("play-button", "n_clicks"))
