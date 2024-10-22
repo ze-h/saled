@@ -221,7 +221,7 @@ def updateTimestamp(selection, sample_audio):
         raise PreventUpdate
     
     audio = AudioSegment.from_file(sample_audio)
-  
+    
     start = time.time()
     if selection is not None and "range" in selection.keys():
         left_bound = selection["range"]["x"][0] * 0.01
