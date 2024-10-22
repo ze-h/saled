@@ -19,11 +19,9 @@ def envelope_sample(sample_array):
     # print("Looped")
     return sampled
 
-playback = None
 
 def play_audio(sample):
-    playback = pydub.playback.play(AudioSegment.from_mp3(sample))
+    pydub.playback.play(AudioSegment.from_mp3(sample))
     
-def pause_audio():
-    #playback.stop()
-    return
+def pause_audio(sample):
+    pydub.playback.stop(AudioSegment.from_mp3(sample))

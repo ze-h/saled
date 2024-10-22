@@ -251,7 +251,6 @@ def updateTimestamp(selection, sample_audio):
     
 
 
-
 @callback(Input("file-selector", "value"), Input("play-button", "n_clicks"))
 def play_audio(file, n):
     if n != None:
@@ -259,9 +258,9 @@ def play_audio(file, n):
         atool.play_audio(file)
         
 
-@callback(Input("pause-button", "n_clicks"))
+@callback(Input("file-selector", "value"), Input("pause-button", "n_clicks"))
 def pause_audio(file, n):
     if n != None:
-        print("play", n, "recieved")
-        atool.pause_audio()
+        print("pause", n, "recieved")
+        atool.pause_audio(file)
 
