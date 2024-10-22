@@ -250,7 +250,6 @@ def updateTimestamp(selection, sample_audio):
 
     
 
-
 @callback(Input("file-selector", "value"), Input("play-button", "n_clicks"))
 def play_audio(file, n):
     if n != None:
